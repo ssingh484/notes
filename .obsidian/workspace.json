@@ -6,6 +6,7 @@
       {
         "id": "c5efdd923db0125d",
         "type": "tabs",
+        "dimension": 62.75440976933514,
         "children": [
           {
             "id": "bca040e8f46d26ad",
@@ -53,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DefCon/OpenSource Malware.md",
+                "file": "DefCon/AI vs APTs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenSource Malware"
+              "title": "AI vs APTs"
             }
           }
         ],
@@ -67,6 +68,7 @@
       {
         "id": "6170b0417b7bb5f1",
         "type": "tabs",
+        "dimension": 37.24559023066486,
         "children": [
           {
             "id": "66615fc9847a321e",
@@ -240,9 +242,15 @@
   },
   "active": "87d52eba665fc35a",
   "lastOpenFiles": [
+    "DefCon/Hack the Clock.md",
+    "DefCon/AI vs APTs.md",
+    "DefCon/BlackDagger.md",
+    "DefCon/Snacky.md",
+    "DefCon/Red Teaming GenAI.md",
+    "DefCon/Train how we Train.md",
+    "DefCon/OpenSource Malware.md",
     "Pasted image 20250808141116.png",
     "DefCon",
-    "DefCon/OpenSource Malware.md",
     "exploit-notes/linux/privilege-escalation/sudo/index.md",
     "HTB Labs/Broker.md",
     "exploit/linux/privilege-escalation/sudo/index.md",
@@ -266,11 +274,6 @@
     "exploit-notes/windows/active-directory/smb-pentesting.md",
     "exploit-notes/windows/protocol/msrpc-pentesting.md",
     "HTB Labs/NetMon.md",
-    "TCMSec-Notes/Always Install Elevated.md",
-    "HTB Labs/Love.md",
-    "exploit-notes/web/security-risk/broken-access-control.md",
-    "exploit-notes/steganography/image-file-reparing.md",
-    "HTB Labs/Networked.md",
     "HTB Labs",
     "Pasted image 20241005140155.png",
     "exploit-notes/windows/service/_data.yml",
@@ -284,7 +287,6 @@
     "External Notes/assets/Pasted image 20240514165838.png",
     "External Notes/assets/Pasted image 20240514165814.png",
     "External Notes/assets/Pasted image 20240514165130.png",
-    "AddieLamar Notes/assets/Pasted image 20240514203216.png",
-    "AddieLamar Notes/assets/Pasted image 20240514203209.png"
+    "AddieLamar Notes/assets/Pasted image 20240514203216.png"
   ]
 }
