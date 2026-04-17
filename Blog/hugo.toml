@@ -42,3 +42,8 @@ palette = "tokyo-night-dark"
   [languages.en]
     languageName = "English"
     weight = 1
+
+[deployment]
+  [[deployment.targets]]
+    name = 'production'
+    url = 's3://blog-268104899338-us-east-1-an?region=us-east-1'

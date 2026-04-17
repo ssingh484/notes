@@ -1,35 +1,38 @@
-# name: hugo build
+name: Build and Deploy Blog
 
-# on:
-#   push:
-#     branches:
-#       - main
+on:
+  push:
+    branches:
+      - main
 
-# jobs:
-#   deploy:
-#     runs-on: ubuntu-latest
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
 #     concurrency:
 #       group: ${{ github.workflow }}-${{ github.ref }}
-#     steps:
-#       - uses: actions/checkout@v2
-#         with:
-#           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-#           path: risotto
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+        with:
+          submodules: true
+          path: notes
 
-#       - name: Setup Hugo
-#         uses: peaceiris/actions-hugo@v2
-#         with:
-#           hugo-version: '0.85.0'
-#           # extended: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f
+        with:
+          hugo-version: '0.160.1'
+          extended: true
 
-#       - name: Build
-#         working-directory: ./risotto/exampleSite
-#         run: hugo --minify --themesDir="../.." -t risotto
+      - name: Build
+        working-directory: ./notes/Blog
+        run: hugo --minify --themesDir="themes" -t risotto
+      
+      - name: AWS credentials
+        uses: aws-actions/configure-aws-credentials@ec61189d14ec14c8efccab744f656cffd0e33f37
+        with:
+          audience: sts.amazonaws.com.cn
+          aws-region: us-east-1
+          role-to-assume: arn:aws:iam::268104899338:role/github-notes-repo
 
-#       - name: Deploy
-#         uses: peaceiris/actions-gh-pages@v3
-#         if: ${{ github.ref == 'refs/heads/main' }}
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#           publish_dir: ./risotto/exampleSite/public
-#           cname: risotto.joeroe.io
+      - name: Deploy
+        working-directory: ./notes/Blog
+        run: hugo deploy
