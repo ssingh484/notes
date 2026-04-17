@@ -1,0 +1,44 @@
+baseURL = 'https://blog.zlothy.com/'
+locale = 'en-us'
+title = "Zlothy's Blog"
+author = "Siddhant Singh"
+theme = 'risotto'
+enableRobotsTXT = true
+
+languageCode = "en"
+DefaultContentLanguage = "en"
+sectionPagesMenu = "main"
+
+# Sidebar: about/bio
+[params.about]
+title = "Sidhant Singh"
+description = "An App-Security Engineer's blog about technical and non-technical musings. A way to [not end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)"
+# unicode/emoji logo:
+# logo = "🍚"
+# or use an image:
+logo_image = "headshot.jpg"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "tokyo-night-dark"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
+    weight = 20
+    
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
