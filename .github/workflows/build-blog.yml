@@ -23,9 +23,10 @@ jobs:
       - name: Setup Hugo
       # Using noesya's fork over peaceiris' original action to use withDeploy
       # https://github.com/peaceiris/actions-hugo/pull/659
-        uses: noesya/actions-hugo@a0b7e1cd7ebbbd16e55ca26d438a1d5574d78b25
+        uses: noesya/actions-hugo@release
         with:
           hugo-version: '0.160.1'
+          extended: true
           withdeploy: true
 
       - name: Build
