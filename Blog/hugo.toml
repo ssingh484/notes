@@ -11,7 +11,7 @@ sectionPagesMenu = "main"
 
 # Sidebar: about/bio
 [params.about]
-title = "Sidhant Singh"
+title = "Siddhant Singh"
 description = "An App-Security Engineer's blog about technical and non-technical musings. A way to [not end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)"
 # unicode/emoji logo:
 # logo = "🍚"
