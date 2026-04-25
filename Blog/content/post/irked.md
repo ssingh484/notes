@@ -1,6 +1,7 @@
 +++
 date = '2026-04-20T22:26:37-04:00'
 draft = false
+author = 'Siddhant Singh'
 title = 'Irked'
 +++
 

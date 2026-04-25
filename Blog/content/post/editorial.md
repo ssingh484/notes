@@ -1,6 +1,7 @@
 +++
 date = '2026-04-20T22:25:04-04:00'
-draft = true
+draft = false
+author = 'Siddhant Singh'
 title = 'Editorial'
 +++
 
