@@ -1,0 +1,45 @@
+name: Build and Deploy Blog
+
+permissions:
+  contents: read
+  id-token: write
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+#     concurrency:
+#       group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+        with:
+          submodules: true
+          path: notes
+
+      - name: Setup Hugo
+      # Using noesya's fork over peaceiris' original action to use withDeploy
+      # https://github.com/peaceiris/actions-hugo/pull/659
+        uses: noesya/actions-hugo@release
+        with:
+          hugo-version: '0.160.1'
+          extended: true
+          withdeploy: true
+
+      - name: Build
+        working-directory: ./notes/Blog
+        run: hugo --minify --themesDir="themes" -t risotto
+      
+      - name: AWS credentials
+        uses: aws-actions/configure-aws-credentials@ec61189d14ec14c8efccab744f656cffd0e33f37
+        with:
+          audience: sts.amazonaws.com
+          aws-region: us-east-1
+          role-to-assume: arn:aws:iam::268104899338:role/github-notes-repo
+
+      - name: Deploy
+        working-directory: ./notes/Blog
+        run: hugo deploy

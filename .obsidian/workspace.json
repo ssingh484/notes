@@ -22,20 +22,49 @@
             }
           },
           {
-            "id": "babad56745596550",
+            "id": "a3890681c3034294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exploit-notes/linux/privilege-escalation/sudo/index.md",
+                "file": "exploit-notes/web/api/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "82ef93a3eaf36b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OFFSec Labs/Exfiltrated Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exfiltrated Notes"
+            }
+          },
+          {
+            "id": "e84f9cb92595c8da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OFFSec Labs/Exfiltrated Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exfiltrated Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6170b0417b7bb5f1",
@@ -45,12 +74,14 @@
             "id": "66615fc9847a321e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DefCon/PXL_20250809_194703088.jpg"
+                "file": "DnD/false_hydra_llm_report.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "PXL_20250809_194703088"
+              "icon": "lucide-file",
+              "title": "false_hydra_llm_report"
             }
           },
           {
@@ -66,8 +97,23 @@
               "icon": "lucide-file",
               "title": "NMAP Oneliner"
             }
+          },
+          {
+            "id": "6b87ba630f0e7623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japan Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Japan Tips"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zlib",
+                "query": "lxd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,52 +256,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bca040e8f46d26ad",
+  "active": "6866fe523f2274a4",
   "lastOpenFiles": [
-    "DefCon/EBPF Kernel vulns.md",
-    "DefCon/PXL_20250809_194703088.jpg",
-    "DefCon/PXL_20250809_195554439.jpg",
-    "DefCon/PXL_20250809_200140910.jpg",
-    "DefCon/PXL_20250810_170606457.jpg",
-    "DefCon/PXL_20250810_171342604.jpg",
-    "DefCon/PXL_20250810_171256062.jpg",
-    "DefCon/PXL_20250810_173545161.jpg",
-    "DefCon/GitHub Actions Talk.md",
-    "DefCon/Mind the void - AI Poisoning data.md",
-    "DefCon/Red Teaming GenAI.md",
-    "DefCon/Red teaming AI.md",
-    "DefCon/PXL_20250810_173637633.jpg",
-    "DefCon/PXL_20250810_173459774.jpg",
-    "DefCon/PXL_20250810_173348330.jpg",
-    "HTB Labs/Broker.md",
-    "DefCon/BlackDagger.md",
-    "DefCon/K8sploitation.md",
-    "DefCon/OpenSource Malware.md",
-    "TCMSec-Notes/BloodHound.md",
-    "DefCon/Iriusrisk.md",
-    "a.md",
-    "DefCon/Train how we Train.md",
-    "DefCon/Snacky.md",
-    "DefCon/Hack the Clock.md",
-    "DefCon/AI vs APTs.md",
-    "DefCon",
-    "exploit-notes/linux/privilege-escalation/sudo/index.md",
-    "exploit/linux/privilege-escalation/sudo/index.md",
-    "exploit/linux/privilege-escalation/sudo",
-    "exploit/linux/privilege-escalation/sudo.md",
-    "exploit/linux/privilege-escalation",
-    "exploit/linux",
-    "exploit",
-    "exploit-notes/web/apache-activemq-pentesting.md",
-    "exploit-notes/windows/active-directory/ldap-pentesting.md",
-    "UsefulNotes/NMAP Oneliner.md",
-    "HTB Labs/Cicada.md",
-    "exploit-notes/windows/active-directory/as-rep-roasting.md",
-    "TCMSec-Notes/Attacking AD.md",
-    "HTB Labs",
-    "exploit-notes/windows/service/_data.yml",
-    "exploit-notes/windows/wsl/_data.yml",
-    "exploit-notes/windows/technique/_data.yml",
-    "exploit-notes/windows/protocol/_data.yml"
+    "Blog/themes/ananke/package.json",
+    "Blog/themes/ananke/assets/ananke/socials/zhihu.svg",
+    "Blog/themes/ananke/assets/ananke/socials/youtube.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yoast.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yelp.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yarn.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yandex.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yandex-international.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yammer.svg",
+    "Blog/themes/ananke/assets/ananke/socials/yahoo.svg",
+    "Blog/themes/ananke/assets/ananke/socials/y-combinator.svg",
+    "Blog/themes/ananke/README.md",
+    "Blog/themes/ananke/theme.toml",
+    "Blog/themes/ananke/tsconfig.json",
+    "Blog/themes/ananke/CHANGELOG.md",
+    "Blog/themes/ananke/CONTRIBUTING.md",
+    "Blog/themes/ananke/docs",
+    "Blog/themes/risotto/archetypes/default.md",
+    "Blog/themes/risotto/archetypes",
+    "Blog/themes/risotto/config.toml",
+    "Blog/assets/Unconfirmed 889807.crdownload",
+    "Blog/assets/headshot.jfif",
+    "Blog/assets/Unconfirmed 747583.crdownload",
+    "Blog/public/post/first/index.html",
+    "Blog/public/post/index.xml",
+    "Blog/content/post/first.md",
+    "Blog/content/about.md",
+    "Blog/content/first.md",
+    "Blog/content/first-post.md",
+    "Blog/themes/risotto/exampleSite/content/post/rich-content.md",
+    "Blog/themes/risotto/exampleSite/content/post/_index.md",
+    "Blog/themes/risotto/exampleSite/content/post/placeholder-text.md",
+    "Blog/themes/risotto/exampleSite/content/post/math-typesetting.md",
+    "Blog/themes/risotto/exampleSite/content/post/markdown-syntax.md",
+    "Blog/themes/risotto/exampleSite/content/post/emoji-support.md",
+    "Blog/themes/risotto/exampleSite/content/homepage/work.md",
+    "Blog/themes/risotto/exampleSite/content/homepage/index.md",
+    "Blog/themes/risotto/exampleSite/content/homepage/about.md",
+    "Blog/themes/risotto/exampleSite/content/_index.md",
+    "Blog/themes/risotto/exampleSite/content/archives.md",
+    "Blog/themes/risotto/exampleSite/content/about.md",
+    "Blog/themes/risotto/README.md",
+    "Blog/themes/risotto/NEWS.md",
+    "Blog/themes/ananke/archetypes/default.md",
+    "Blog/archetypes/default.md",
+    "3.239.148.165.md",
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,6 @@
+[submodule "Blog/themes/ananke"]
+	path = Blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "Blog/themes/risotto"]
+	path = Blog/themes/risotto
+	url = https://github.com/joeroe/risotto.git
