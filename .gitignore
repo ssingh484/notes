@@ -1,5 +1,4 @@
 .obsidian
-.obsidian/*
+.obsidian/*.*
 Blog/public/*
 Blog/public
-
