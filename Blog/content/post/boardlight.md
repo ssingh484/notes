@@ -7,6 +7,8 @@ title = 'Boardlight'
 
 BoardLight is an easy-rated Linux box on HackTheBox. The path goes through subdomain enumeration, exploiting an authenticated RCE in a Dolibarr CRM install, credential reuse to get a foothold as a real user, and then a SUID binary on an outdated version of Enlightenment to pop root.
 
+<!--more-->
+
 ---
 
 ## Enumeration

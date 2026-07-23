@@ -9,6 +9,8 @@ Sau is an easy-rated Linux box on HackTheBox. The attack chain starts with an SS
 
 **Target:** `10.10.11.224`
 
+<!--more-->
+
 ---
 
 ## Enumeration

@@ -10,6 +10,8 @@ Dog is an easy-rated Linux box on HackTheBox. The box is running a Backdrop CMS 
 **Target:** `10.129.231.223`  
 **My IP:** `10.10.14.208`
 
+<!--more-->
+
 ---
 
 ## Enumeration

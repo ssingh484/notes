@@ -9,6 +9,8 @@ Active is an easy-rated Windows box on HackTheBox. It's a domain controller runn
 
 **Target:** `10.129.20.79`
 
+<!--more-->
+
 ---
 
 ## Enumeration

@@ -7,6 +7,8 @@ title = 'Irked'
 
 Irked is an easy-rated Linux box on HackTheBox. The path goes through a trojaned UnrealIRCd instance to land a shell, some steganography hidden behind a backup file hint to pivot to a real user, and finally a SUID binary that executes a world-writable script to get root.
 
+<!--more-->
+
 ---
 
 ## Enumeration

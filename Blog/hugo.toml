@@ -4,6 +4,7 @@ title = "Zlothy's Blog"
 author = "Siddhant Singh"
 theme = 'risotto'
 enableRobotsTXT = true
+summaryLength = 30
 
 languageCode = "en"
 DefaultContentLanguage = "en"

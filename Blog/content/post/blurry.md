@@ -10,6 +10,8 @@ Blurry is a medium-rated Linux box on HackTheBox. Initial access comes through a
 **Target:** `10.129.28.253`  
 **My IP:** `10.10.14.217`
 
+<!--more-->
+
 ---
 
 ## Enumeration

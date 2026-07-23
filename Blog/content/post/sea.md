@@ -10,6 +10,8 @@ Sea is an easy-rated Linux box on HackTheBox. The attack chain goes from enumera
 **Target:** `10.129.32.234`  
 **My IP:** `10.10.14.217`
 
+<!--more-->
+
 ---
 
 ## Enumeration

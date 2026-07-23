@@ -9,6 +9,8 @@ Editorial is an easy-rated Linux box on HackTheBox. The box presents a publishin
 
 **Target:** `10.10.11.20`
 
+<!--more-->
+
 ---
 
 ## Enumeration

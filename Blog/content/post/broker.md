@@ -7,6 +7,8 @@ title = 'Broker'
 
 Broker is an easy-rated Linux box on HackTheBox. The path runs through a heavily exposed Apache ActiveMQ instance, exploiting a critical RCE vulnerability (CVE-2023-46604) to land a shell, then abusing a NOPASSWD nginx sudo entry to escalate to root.
 
+<!--more-->
+
 ---
 
 ## Enumeration

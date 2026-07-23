@@ -10,6 +10,8 @@ Cicada is an easy-rated Windows box on HackTheBox. It's a domain controller, and
 **Target:** `10.10.11.35`  
 **My IP:** `10.10.14.2`
 
+<!--more-->
+
 ---
 
 ## Enumeration

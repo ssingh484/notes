@@ -7,6 +7,8 @@ title = 'Builder'
 
 Builder is a medium-rated Linux box on HackTheBox. The path goes through an exposed Jenkins instance, exploiting CVE-2024-23897 to get arbitrary file reads via the Jenkins CLI, cracking a bcrypt hash pulled from the user config, and then abusing authenticated pipeline execution to dump a stored SSH private key and get root.
 
+<!--more-->
+
 ---
 
 ## Enumeration
