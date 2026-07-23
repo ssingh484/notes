@@ -1,7 +1,7 @@
 +++
 date = '2026-07-22T21:12:52-04:00'
 draft = false
-title = 'Forest2'
+title = 'Forest'
 author = 'Siddhant Singh'
 +++
 
