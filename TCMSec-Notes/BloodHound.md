@@ -19,3 +19,12 @@ Use a collector
 ```bloodhound-python
 bloodhound-python -u <USER> -p <PASS> -d <domain> -c all -ns <Nameserver-IP>
 ```
+
+# FOR DOCKER COMPOSE VERSION
+
+Remember to stop and prune all containers and volumes before restarting stack for any new data/box
+
+`sudo docker container prune -a`
+
+`sudo docker volume prune -a`
+
