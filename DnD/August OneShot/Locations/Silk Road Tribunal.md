@@ -8,6 +8,11 @@ tags: [location, secondary, clue, kafil]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Secondary clue stop — Kafil/immigration evidence. NPC: Abbas, a mildly-Bloomed clerk still processing dead workers' paperwork.
+> - **Key finds** (DC14 Investigation or 20min with Abbas's help): 94% appeal denial rate · residency exceptions never granted to non-natives · [[Rajan Pillai|Rajan's]] file ("loss of leverage otherwise") · 9 of 11 pruned workers had active Kafil restrictions.
+> - **Core revelation**: workers physically couldn't leave when the Bloom hit — Kafil exit rules made leaving a permanent economic death sentence.
+
 ## Overview
 
 | | |

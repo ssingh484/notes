@@ -2,11 +2,17 @@
 tags: [location, exploration, sanctuary]
 ---
 
-# Masjid al-Kawthar — Mosque of Abundance
+# Hajia al-Kawthar — Mosque of Abundance
 
 ← [[00 - Index]] | Related: [[Bloom Exposure Mechanic]], [[Rajan Pillai]]
 
 ---
+
+> [!info]- DM Cliffnotes
+> - Sanctuary location — the only minaret still calling the adhan correctly (how PCs find it: sound alone, no check needed).
+> - **Mechanics**: Advantage on all Bloom saves inside · ablution pool removes 1 Bloom Exposure · resting here carries zero Bloom risk.
+> - **Secret**: [[Rajan Pillai|Rajan]] has secretly been patching the minaret crack for 18 months.
+> - **Qibla flowers** (DC18 Arcana/Religion): the Bloom corrected a 3° architectural error — unsettling proof the Gardener isn't malicious, just alien.
 
 ## Overview
 
@@ -22,7 +28,7 @@ tags: [location, exploration, sanctuary]
 
 ## How Players Find It
 
-The Masjid al-Kawthar announces itself by sound — the correct adhan, at the correct time, sounding like a human voice. Every other minaret in [[Issyldir - The City|Issyldir]] has been calling at wrong hours in wrong voices. Players who pay attention to the adhan while navigating the city can follow the correct call to this location. No check required — the contrast with the corrupted calls is unmistakable.
+The Hajia al-Kawthar announces itself by sound — the correct adhan, at the correct time, sounding like a human voice. Every other minaret in [[Issyldir - The City|Issyldir]] has been calling at wrong hours in wrong voices. Players who pay attention to the adhan while navigating the city can follow the correct call to this location. No check required — the contrast with the corrupted calls is unmistakable.
 
 ---
 
@@ -87,7 +93,7 @@ The oldest building in Issyldir — predates the city itself by approximately 50
 
 > **READ ALOUD**: *"You hear the mosque before you reach it — the correct adhan, sounding from the minaret on what your instincts tell you is actually the right time. Every other minaret in Issyldir has been calling at wrong hours, in wrong voices. This one sounds like a person. You follow it.*
 >
-> *The Masjid al-Kawthar has been decorated by the Bloom the way a gift is wrapped — carefully, as if with respect. The flowers on the far wall have arranged themselves into an arch that mirrors the mihrab exactly. The main hall is mostly clear: only a few tendrils of root at the baseboards, some petals on the floor. The air here is different — the floral sweetness that saturates the rest of the city is present, but fainter. Underlaid with something older. Stone and water and time.*
+> *The Hajia al-Kawthar has been decorated by the Bloom the way a gift is wrapped — carefully, as if with respect. The flowers on the far wall have arranged themselves into an arch that mirrors the mihrab exactly. The main hall is mostly clear: only a few tendrils of root at the baseboards, some petals on the floor. The air here is different — the floral sweetness that saturates the rest of the city is present, but fainter. Underlaid with something older. Stone and water and time.*
 >
 > *The ablution pool is full. The water in it is the clearest water you have seen since you entered Issyldir. Your hands, lowered into it, look like your own hands. Just yours."*
 

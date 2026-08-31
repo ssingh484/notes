@@ -8,6 +8,12 @@ tags: [location, secondary, recovery]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Recovery/safe-conversation location — bakhoor smoke actively repels the Bloom (zero density).
+> - **NPC**: [[Hamid al-Sharq]] — the most straightforwardly informative NPC in the adventure; ask him directly about the ritual components.
+> - **Mechanics**: 10min inside = Advantage on next Bloom save · 30min = clears active short-term madness · resting here carries zero Bloom risk.
+> - **Locked box** (Trust 3 or DC16 Persuasion): concentrated bakhoor oil, one-use portable 30ft Bloom-free zone for 8 hours — save it for Encounter 3 if combat looks likely.
+
 ## Overview
 
 | | |

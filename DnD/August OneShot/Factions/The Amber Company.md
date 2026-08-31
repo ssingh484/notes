@@ -8,6 +8,14 @@ tags: [faction, antagonist]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - **The true antagonist** of the adventure — not [[The Gardener]], not [[Kasim al-Nuri]].
+> - **Agenda**: reverse-engineer the Sealed Scroll to weaponize targeted Bloom events elsewhere, then sell "restoration services" to the victims.
+> - **Key personnel**: [[Saleh]] (field agent, doesn't know the full scope) · Harun al-Noor (absent architect of the sabotage; correspondence findable in [[The Amber House]]) · Yasmeen al-Bakri (junior agent, still in the Amber House back room, will confess everything if found).
+> - **The irony**: they wanted controlled economic disruption, not an apocalypse — the Gardener's arrival was never part of their plan.
+> - **Saleh's 3 reactions if confronted**: hostile/low trust → he flees to report it · civil/medium trust → he freezes, sets the scroll down · high trust → he actively helps obstruct the Company.
+> - **Doesn't get resolved** — Company leadership is a structural force, not a boss to defeat.
+
 ## Overview
 
 The Amber Company is the adventure's true antagonist — not the [[The Gardener|Gardener]], not [[Kasim al-Nuri|Kasim]], but the mercantile organization that engineered the Bloom event and then hired the players to retrieve the one artifact that would let them do it again. The Company is not evil in the melodramatic sense: they are rational actors applying commercial logic to situations where commercial logic produces catastrophic results.

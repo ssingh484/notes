@@ -34,7 +34,7 @@ The founding families established the Merchant Council and the Kafil system in t
 The decision to deny permanent residency access was deliberate. The archive contains the minutes of the Council meeting where it was made. The councilmember who wanted to offer residency — his name was Mas'ud al-Farhan — wrote something on a piece of paper and put it in his pocket. The paper has not been found.
 
 ### The Building Years (Years 30–90)
-Issyldir became genuinely prosperous. The silk road connection made the city a mandatory stop on regional trade routes. The Bayt al-Hikma was built. The Grand Serai was built. The Masjid al-Kawthar was expanded three times. The city developed the self-consciousness of a place that knew it mattered.
+Issyldir became genuinely prosperous. The silk road connection made the city a mandatory stop on regional trade routes. The Bayt al-Hikma was built. The Grand Serai was built. The Hajia al-Kawthar was expanded three times. The city developed the self-consciousness of a place that knew it mattered.
 
 The Kafil system ran silently in the background throughout this period, processing workers, denying appeals, renewing permits annually at a fee the workers had no choice but to pay. The workers built everything in the preceding paragraph.
 
@@ -82,7 +82,7 @@ The exit rule is the system's cruelest element: the workers who were in the city
              │
 [MID CITY — Merchant quarter, Amber House, Silk Road Tribunal]
              │
-[MASJID AL-KAWTHAR] ←────→ [GARDEN OF WHISPERS]
+[HAJIA AL-KAWTHAR] ←────→ [GARDEN OF WHISPERS]
              │
 [UPPER CITY — Council buildings, estates, Grand Serai]
              │
@@ -95,13 +95,17 @@ The exit rule is the system's cruelest element: the workers who were in the city
 
 ## Approaching the City — First Impressions
 
-> **READ ALOUD (first view of Issyldir)**: *"You see the city from the road before you reach its walls — or rather, you see what the city has become. Issyldir is still standing, which is the first thing. The walls are intact. The minarets are upright. The Grand Serai's dome is visible against the sky. The city is not ruins.*
+> **READ ALOUD (first view of Issyldir)**: *"You see the city from the road before you reach its walls — or rather, you see what the city has become. Issyldir is still standing, its walls intact. The minarets are upright and the marble dome of the Grand Serai, the large capital hall and original seat of the city's power, is visible against the sky
+> 
+> *You have all heard of the city and its history, from conversations about its storied past, from merchants singing its praises or from travelling caravans describing the source and related prestige of their goods.*
+> 
+> *This city here started a century and a half ago from a chance crossing of two trade caravans in the desert. The agreement to meet again and trade again led to the slow growth of a souq and the town surrounding it over the years. A jewel of the desert, sitting astride numerous trade routes it became a flourishing, prosperous city*
+> 
+> *This... is not that city, this is a changed, overgrown aftermath of a violent magical ritual. It is no longer a lively trade city but it is still alive, growing, buding and flowering.*
 >
-> *It is flowering.*
+> *From here, half a mile out of the city, the color is what reaches you first — a warmth of pink and red and gold rising from the walls, the rooftops, the towers, a city crowned in roses when no city should be. The scale of it takes a moment to process: not a garden here and there, not decorative planting, but the entire visible surface of Issyldir covered in something living and flowering that should not be there. And then, because the wind is coming from that direction: the smell. Sweet. Almost too sweet. The cloying, sickly sweet smell of a thousand roses in a space meant for a hundred.*
 >
-> *From here, half a mile out, the color is what reaches you first — a warmth of pink and red and gold rising from the walls, the rooftops, the towers, a city crowned in roses when no city should be. The scale of it takes a moment to process: not a garden here and there, not decorative planting, but the entire visible surface of Issyldir covered in something living and flowering that should not be there. And then, because the wind is coming from that direction: the smell. Sweet. Almost too sweet. The smell of a thousand roses in a space meant for a hundred.*
->
-> *The city is waiting. You are not sure for what."*
+> *The city seems like it is waiting, you are not sure what for."*
 
 ---
 

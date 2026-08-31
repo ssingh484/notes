@@ -8,6 +8,13 @@ tags: [npc, anchor, tragic-figure, scholar]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - The adventure's moral center — Head Scholar, Fatima's mother, willingly became the ritual's second anchor 18 months ago to blunt the damage.
+> - Holds the Sealed Scroll physically inside her ribcage; knows and will share everything (sabotage, Amber Company, the endings) if asked — she's been waiting 18 months for someone to ask.
+> - Bloom Exposure 5 but mentally intact; cannot be reduced below 1 HP while the scroll is intact; psychic-immune (she's the Gardener's anchor).
+> - Will survive the scroll's destruction but has "days to weeks" left regardless.
+> - Doesn't know Fatima is alive and nearby unless told — a major emotional beat if Fatima is present.
+
 ## At a Glance
 
 | | |

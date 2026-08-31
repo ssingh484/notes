@@ -8,6 +8,12 @@ tags: [npc, migrant-worker, recurring-guide]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Most knowledgeable person in the city; recurring guide across all 3 encounters. Trapped by the Kafil exit-permit trap when his sponsor fled.
+> - Starting Trust 1 — warms fastest when treated as a person, not a resource (ask his name before his occupation, let him finish sentences).
+> - Secretly been patching [[Hajia al-Kawthar]]'s minaret crack for 18 months; secretly dreaming in new colors like Nadia but hasn't told anyone.
+> - High trust → points out Kasim's pruning pattern unprompted; Trust 5 → volunteers as **willing vessel** in Encounter 3 ("I have nowhere else to go anyway").
+
 ## At a Glance
 
 | | |
@@ -52,7 +58,7 @@ He was sponsored under the **Kafil system** by a silk dealer named **Tariq al-Fa
 
 - Surviving carefully. Helping other trapped workers quietly — never organizing (that would draw [[Kasim al-Nuri|Kasim's]] attention).
 - Keeping himself away from central districts and known Bloom-dense zones.
-- Maintaining the crack in [[Masjid al-Kawthar|Masjid al-Kawthar's]] minaret with mortar every few months. He has not told anyone. No one has asked him to.
+- Maintaining the crack in [[Hajia al-Kawthar|Hajia al-Kawthar's]] minaret with mortar every few months. He has not told anyone. No one has asked him to.
 - Dreaming in colors he has no words for. He has not told anyone. He has watched what happens to people who mention similar things.
 
 ---

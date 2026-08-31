@@ -8,6 +8,12 @@ tags: [npc, survivor, at-risk]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Scheduled for pruning tomorrow (Encounter 2) — but her Bloom (1, Seeded) is the mildest possible; she's not actually dangerous.
+> - Her dreams are genuine visions from inside the Gardener's root network — Entry 19 describes Parveen "in pain," Entry 23 predicted the PCs' arrival.
+> - Legally "foreign-origin" on Kasim's list despite living in Issyldir since age 6 — makes the Kafil injustice personal.
+> - Trust 5 → volunteers as **willing vessel** in Encounter 3 ("Maybe I'm already partway there").
+
 ## At a Glance
 
 | | |

@@ -8,6 +8,12 @@ tags: [location, primary, encounter]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Encounter 1 site — see [[Encounter 1 - Souq al-Waqif]] for the full run notes.
+> - Zones A–J map; the fountain (E) carries the 4-language founding inscription clue; Sana's Essences (J) is the horror beat.
+> - Hookah/food/tobacco are all Bloom vectors (DC12 CON) — socially, refusing rudely is read as an insult; a polite refusal is fine.
+> - First human contacts here: [[Fatima Rashid]] and [[Rajan Pillai]].
+
 ## Overview
 
 The Souq al-Waqif — "Standing Market" — is the oldest commercial district in [[Issyldir - The City|Issyldir]], predating the construction of the city walls. It has been continuously inhabited for 140 years. It is the first major location players enter, and it sets the tone for everything that follows.

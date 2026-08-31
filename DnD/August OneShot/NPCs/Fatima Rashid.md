@@ -8,6 +8,12 @@ tags: [npc, guide, fractured]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Encounter 1 guide; switches unpredictably between "Present" memory (calls Parveen "the Scholar," accurate but distant) and "Before" memory (calls her "Ami," warm but describes a city that no longer exists) — DC12 WIS to resist switching under stress.
+> - Doesn't know her mother is fused to the ritual seat. Bloom Exposure 2.
+> - Trust 5 unlocks: hearing her mother's heartbeat through roses; she asks to come to the Serai.
+> - Bringing her to the Serai at Trust 3+ instantly bumps [[Parveen]]'s trust to 4.
+
 ## At a Glance
 
 | | |

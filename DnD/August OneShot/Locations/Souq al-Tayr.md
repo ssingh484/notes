@@ -8,6 +8,11 @@ tags: [location, secondary, market]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - First contact point with [[Nasr]] (Bloomed falcon). DC12 Animal Handling to approach without startling him; DC10 Animal Handling (calming gesture) to receive a vision.
+> - **Vision content**: the pre-Bloom city, the pulse expanding from the Serai, Tariq al-Shams's expression = surprise, not fear.
+> - Low Bloom density; mostly atmospheric (empty cages, departed birds).
+
 ## Overview
 
 | | |

@@ -15,6 +15,7 @@ tags: [index, one-shot, dnd5e]
 
 | Document | Purpose |
 |---|---|
+| [[Campaign Flow]] | Single-file linear walkthrough of the whole session |
 | [[Campaign Overview]] | Full plot, act structure, timeline |
 | [[Issyldir - The City]] | City history, layout, cultural context |
 | [[Bloom Exposure Mechanic]] | Custom horror mechanic |
@@ -42,7 +43,7 @@ tags: [index, one-shot, dnd5e]
 - [[The Grand Serai]] — Palace Heart *(Encounter 3)*
 
 ### City Exploration
-- [[Masjid al-Kawthar]] — Mosque of Abundance *(sanctuary, Bloom resist, ablution cure)*
+- [[Hajia al-Kawthar]] — Mosque of Abundance *(sanctuary, Bloom resist, ablution cure)*
 - [[Souq al-Tayr]] — The Bird Market *(Nasr's base, vision mechanic)*
 - [[The Bakhoor House]] — Hamid's safe house *(madness cure, key ally)*
 - [[The Amber House]] — Company trading post *(evidence, locked agent)*
@@ -68,14 +69,14 @@ tags: [index, one-shot, dnd5e]
 
 ## Creatures & Stat Blocks
 
-| Creature | CR | Context |
-|---|---|---|
-| [[Bloomed Guard]] | 1/2 | Encounter 1, city patrols |
-| [[Bloom Tendril]] | 1/4 | Environmental, Garden of Whispers |
-| [[Kasim al-Nuri (Combat)]] | 3 | Encounter 2 (if triggered) |
-| [[Kasim's Lieutenant]] | 1 | Encounter 2 support (×3) |
-| [[Nasr (Combat)]] | 2 | If players become hostile |
-| [[Bloom Council]] | 10 | Encounter 3 final boss |
+| Creature                                                               | CR  | Context                           |
+| ---------------------------------------------------------------------- | --- | --------------------------------- |
+| [[Bloomed Guard]]                                                      | 1/2 | Encounter 1, city patrols         |
+| [[Bloomed Guard#Bloom Tendril \| Bloom Tendril]]                       | 1/4 | Environmental, Garden of Whispers |
+| [[Kasim al-Nuri (Combat)]]                                             | 3   | Encounter 2 (if triggered)        |
+| [[Kasim al-Nuri (Combat)#Kasim's Lieutenant (×3)\|Kasim's Lieutenant]] | 1   | Encounter 2 support (×3)          |
+| [[Bloomed Guard#Nasr (Combat)\|Nasr (Combat)]]                         | 2   | If players become hostile         |
+| [[Bloom Council]]                                                      | 10  | Encounter 3 final boss            |
 
 ---
 
@@ -88,11 +89,11 @@ tags: [index, one-shot, dnd5e]
 
 ## The All-PCs-Are-Connected Reveal
 
-| Stage | Trigger | What Happens |
-|---|---|---|
+| Stage   | Trigger     | What Happens                                        |
+| ------- | ----------- | --------------------------------------------------- |
 | Stage 1 | Encounter 1 | Bloomed NPCs recognize them — they've been expected |
-| Stage 2 | Encounter 2 | The ledger — every PC's name or hometown appears |
-| Stage 3 | Encounter 3 | The Gardener shows each PC their seed by name |
+| Stage 2 | Encounter 2 | The ledger — every PC's name or hometown appears    |
+| Stage 3 | Encounter 3 | The Gardener shows each PC their seed by name       |
 
 ---
 
@@ -106,12 +107,12 @@ tags: [index, one-shot, dnd5e]
 
 ## Session Timing Guide
 
-| Act | Content | Time |
-|---|---|---|
-| Pre-game | Briefing from [[Saleh]] | 15 min |
-| Act 1 | [[Encounter 1 - Souq al-Waqif]] | 45–60 min |
-| Exploration A | [[Silk Road Tribunal]] + [[The Amber House]] | 20–30 min |
-| Act 2 | [[Encounter 2 - Bayt al-Hikma]] | 50–60 min |
-| Exploration B | [[Garden of Whispers]] + [[Masjid al-Kawthar]] or [[The Bakhoor House]] | 20–30 min |
-| Act 3 | [[Encounter 3 - The Grand Serai]] | 50–60 min |
-| **Total** | | **~4–5 hours** |
+| Act           | Content                                                                | Time           |
+| ------------- | ---------------------------------------------------------------------- | -------------- |
+| Pre-game      | Briefing from [[Saleh]]                                                | 15 min         |
+| Act 1         | [[Encounter 1 - Souq al-Waqif]]                                        | 45–60 min      |
+| Exploration A | [[Silk Road Tribunal]] + [[The Amber House]]                           | 20–30 min      |
+| Act 2         | [[Encounter 2 - Bayt al-Hikma]]                                        | 50–60 min      |
+| Exploration B | [[Garden of Whispers]] + [[Hajia al-Kawthar]] or [[The Bakhoor House]] | 20–30 min      |
+| Act 3         | [[Encounter 3 - The Grand Serai]]                                      | 50–60 min      |
+| **Total**     |                                                                        | **~4–5 hours** |

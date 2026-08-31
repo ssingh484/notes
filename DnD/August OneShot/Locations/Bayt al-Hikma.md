@@ -8,6 +8,12 @@ tags: [location, primary, encounter]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Encounter 2 site — survivor refuge (3F) run by [[Kasim al-Nuri]], civic archives (2F), scholar's atelier (4F).
+> - **Key finds**: The Ledger (Stage 2 reveal) · Amber Company manifest · Parveen's correspondence · the locked-drawer sabotage note · Nadia's journal.
+> - **Building as character**: the Bloom preserved everything — including 140 years of Kafil injustice, perfectly legible.
+> - **Bloom risk**: extended contact with crossed-out ritual docs DC13 WIS · 10+ min on 4F DC12 WIS (both short-term madness only, no Bloom point).
+
 ## Overview
 
 The Bayt al-Hikma is [[Issyldir - The City|Issyldir's]] 90-year-old library-palace, built and endowed by the city's first generation of permanent residents who wanted the trading city to be remembered as more than commercial. It is currently functioning as the survivor refuge managed by [[Kasim al-Nuri|Kasim]], housing 23 people on its upper floors while its lower levels are consumed by Bloom growth.

@@ -56,9 +56,9 @@ The players are not random adventurers — they are personally connected to Issy
 
 | Clue | Location | DC | What It Shows |
 |---|---|---|---|
-| The adhan timing | City-wide, continuous | None | Masjid al-Kawthar still calls correctly; the Gardener doesn't control the oldest building |
+| The adhan timing | City-wide, continuous | None | Hajia al-Kawthar still calls correctly; the Gardener doesn't control the oldest building |
 | Nasr's vision | [[Souq al-Tayr]] | AH 12, then AH 10 | Pre-Bloom city; the Bloom pulse origin; Tariq's expression |
-| Qibla flower correction | [[Masjid al-Kawthar]] | Arc/Rel 18 | Flowers grew along the "correct" path humans didn't complete |
+| Qibla flower correction | [[Hajia al-Kawthar]] | Arc/Rel 18 | Flowers grew along the "correct" path humans didn't complete |
 | The tilework map | [[The Grand Serai]] | Inv 16 or Arc 14 | Living real-time map of Bloom distribution |
 | Parveen's dialogue | [[The Grand Serai]], Ritual Chamber | None | She confirms the Gardener is not malevolent; it arrived accidentally |
 | Vision 3 (Parveen's choice) | [[Garden of Whispers]] | WIS 15 (or free) | Parveen entered the ritual chamber voluntarily to contain the damage |

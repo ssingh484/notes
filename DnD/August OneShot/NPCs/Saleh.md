@@ -8,6 +8,12 @@ tags: [npc, faction-amber-company, employer]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - The PCs' employer/briefing NPC — not a villain, a man who chose not to look closely. Genuinely warm, genuinely wrong.
+> - Bloom Exposure 1, doesn't know he's Bloomed (the dried rose he carries; "beautiful dreams" for 6 months).
+> - Believes the Company wants the scroll for benign "controlled application" — he is misinformed, not lying.
+> - **3 reactions if confronted with evidence**: hostile/low trust → he flees to report it · civil/medium trust → he freezes, sets the scroll down · high trust → he actively helps obstruct the Company.
+
 ## At a Glance
 
 | | |

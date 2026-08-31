@@ -9,6 +9,16 @@ tags: [encounter, act-2, moral, roleplay]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - **Goal**: Establish the sabotage, meet [[Kasim al-Nuri]] & [[Nadia bint Yusuf]], deliver the Stage 2 reveal (The Ledger).
+> - **Emotional core**: confronting Kasim with the pruning pattern (9 of 11 pruned were non-native workers). He's not a villain — handle with care.
+> - **Key finds**: The Ledger (DC10, 2F) = Stage 2 reveal · Amber Company manifest (DC11) · Parveen's locked-drawer note (DC14 tools/DC16 STR) = explicit sabotage smoking gun · Nadia's journal (4F).
+> - **Nadia**: scheduled for pruning tomorrow; her dreams are real Gardener-network perception, not danger.
+> - **Combat trigger**: PCs try to protect Nadia by force / are caught in Kasim's office / accuse him as a threat. He warns once before signaling lieutenants ([[Kasim al-Nuri (Combat)]] + 3× [[Kasim al-Nuri (Combat)#Kasim's Lieutenant (×3)|Lieutenants]]).
+> - **Resolution paths**: incapacitate Kasim (combat ends) / kill him (23 survivors lose leadership) / talk down at DC15 Persuasion with evidence (he becomes a vessel candidate).
+> - **Must leave knowing**: sabotage confirmed · [[The Amber Company]] delivered the corrupted components · the Sealed Scroll is inside [[Parveen]] in [[The Grand Serai]] (Fatima's mother).
+> - **Exit**: toward [[The Grand Serai]], optionally via [[Garden of Whispers]] / [[Hajia al-Kawthar]] / [[The Bakhoor House]].
+
 ## Overview
 
 | | |

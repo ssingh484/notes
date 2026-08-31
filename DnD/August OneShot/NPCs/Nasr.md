@@ -8,6 +8,12 @@ tags: [npc, creature, falcon, bloomed]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Bloomed falcon, the Gardener's eyes in the city; not hostile, has his own quiet opinions.
+> - **Vision Share**: PCs with 2+ Bloom, DC13 WIS within 60ft → up to 1 min of his memories (a map, a specific person, or the ritual night — Tariq's expression was surprise, not fear).
+> - **DM tool**: perch him near a clue PCs are missing (DC12 Animal Handling to notice it's deliberate guidance).
+> - First met at [[Souq al-Tayr]]; combat stats at [[Bloomed Guard#Nasr (Combat)|Nasr (Combat)]] only if PCs turn hostile.
+
 ## At a Glance
 
 | | |

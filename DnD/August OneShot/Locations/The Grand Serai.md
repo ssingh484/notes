@@ -9,6 +9,12 @@ Related: [[The Merchant Council of Seven]], [[Parveen]], [[The Gardener]]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Encounter 3 site — see [[Encounter 3 - The Grand Serai]] for the full run notes.
+> - The Council of Seven sit fused at the table (now the [[Bloom Council]]); [[Parveen]] and the Sealed Scroll are in the hidden Ritual Chamber behind them.
+> - Living tilework floor = real-time Bloom map (Inv DC16/Arc DC14, automatic at 4+ Bloom).
+> - The ending PCs choose changes this room's final description — see Aftermath below.
+
 ## Overview
 
 The Grand Serai is the seat of civic power in [[Issyldir - The City|Issyldir]] — the palace where the Merchant Council of Seven held court, granted audiences, sealed trade agreements, and administered the Kafil permit system. It is now the Bloom's densest point in the city, the location of the ritual chamber, and where [[Parveen|Head Scholar Parveen]] has been seated for 18 months.
@@ -21,7 +27,7 @@ The Grand Serai is the seat of civic power in [[Issyldir - The City|Issyldir]] �
 
 The Grand Serai was built 80 years ago as a deliberate statement of civic power by the third generation of Merchant Council members, who had grown up with wealth and wanted architecture that matched their ambitions. It is the largest building in Issyldir and the most ornate — the famous arabesque tilework on its floors was commissioned from artisans who traveled for three months to lay it.
 
-The building was designed around the ritual chamber. The Council had known, from the city's founding, that [[Issyldir - The City|Issyldir]] sat on an unusual confluence of ley lines — the same confluence that fed the spring under [[Masjid al-Kawthar|Masjid al-Kawthar]] and the aquifer under [[Garden of Whispers|Bustan al-Asrar]]. The founding families commissioned a ritual of abundance — the Rite of the Bountiful Name — as a one-time consecration of the city's water supply. The ritual chamber was built into the palace for exactly this purpose, and never used for the first 60 years while arguments about how, when, and under what authority it should be invoked continued.
+The building was designed around the ritual chamber. The Council had known, from the city's founding, that [[Issyldir - The City|Issyldir]] sat on an unusual confluence of ley lines — the same confluence that fed the spring under [[Hajia al-Kawthar|Hajia al-Kawthar]] and the aquifer under [[Garden of Whispers|Bustan al-Asrar]]. The founding families commissioned a ritual of abundance — the Rite of the Bountiful Name — as a one-time consecration of the city's water supply. The ritual chamber was built into the palace for exactly this purpose, and never used for the first 60 years while arguments about how, when, and under what authority it should be invoked continued.
 
 **The Tariq al-Shams decision**: Council Head Tariq al-Shams, 18 months ago, called for the ritual. The trading city had experienced three consecutive poor years. The groundwater level was dropping. He wanted abundance secured through the divine mechanism available to them. He accepted the Amber Company's donated components as a gesture of reconciliation after a trade dispute. He never asked what exactly had been substituted.
 

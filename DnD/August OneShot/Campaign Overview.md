@@ -72,7 +72,7 @@ The library/survivor refuge. [[Kasim al-Nuri]] has kept 23 people alive through 
 
 ### City Exploration B (20–30 min)
 - [[Garden of Whispers]] — memory echoes of the ritual night, the Gardener's perspective
-- [[Masjid al-Kawthar]] — Bloom save Advantage, ablution pool cures 1 Exposure point
+- [[Hajia al-Kawthar]] — Bloom save Advantage, ablution pool cures 1 Exposure point
 - [[The Bakhoor House]] — [[Hamid al-Sharq|Hamid's]] bakhoor suppresses madness, grants information
 
 ---

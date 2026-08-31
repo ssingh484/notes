@@ -9,6 +9,16 @@ tags: [encounter, act-1, social, investigation]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - **Goal**: Introduce the Bloomed city; meet [[Fatima Rashid]] & [[Rajan Pillai]]; deliver the Stage 1 reveal.
+> - **Vibe**: Market horror, not dungeon — combat here is a failure state, not a goal.
+> - **Key beats**: Gate guards "keeping your place warm" → fountain inscription (Zone E) → Sana's Essences horror beat (Zone J, no roll needed) → find Fatima (roll d6 for memory state) & Rajan.
+> - **Stage 1 Reveal**: Bloomed NPCs recognize the PCs unprompted ("We've been keeping your place warm").
+> - **Bloom risks**: food/drink DC12 CON · shisha DC12 CON · fountain water DC11 CON · lingering 10+ min in Zone I–J DC12 WIS (madness only, no Bloom point).
+> - **Combat trigger**: PCs attack a guard / forcibly free a rooted merchant / destroy stalls → escalating [[Bloomed Guard]]s (max 8), never pursue outside the market.
+> - **Must leave knowing**: ritual 18mo ago · 7 Council members · "Rite of the Bountiful Name" · [[The Grand Serai]] closed since.
+> - **Exit**: toward [[Bayt al-Hikma]], optionally via [[Silk Road Tribunal]] / [[The Amber House]].
+
 ## Overview
 
 | | |

@@ -8,6 +8,11 @@ tags: [location, secondary, clue]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Secondary clue stop — the Amber Company's local office, contains the sabotage "smoking gun."
+> - **Key finds**: delivery manifest (DC10) · Harun's substitution notes (DC13 + Arcana14) · correspondence (DC15) · Harun's full report (DC15) — proves the Bloom-and-sell-restoration plan was intentional.
+> - **NPC**: Yasmeen al-Bakri, junior agent in the back room — will confess everything and cooperate fully if found.
+
 ## Overview
 
 | | |

@@ -8,6 +8,14 @@ tags: [npc, survivor-leader, moral-antagonist]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Encounter 2's moral antagonist, not a villain — enforced the Kafil system his whole career and now "prunes" survivors he judges too Bloomed.
+> - **The pattern**: 9 of 11 pruned were non-native workers; he has never noticed this himself.
+> - Bloom Exposure 3 (Rooting), hidden flower in his gloved left palm.
+> - **Trust breaks to 0 instantly** if PCs reveal Amber Company employment without context — repair needs full sabotage evidence + DC16 Persuasion.
+> - Trust 5 / shown the pattern gently → volunteers as **willing vessel** in Encounter 3 ("appropriate penance").
+> - If combat triggers, see [[Kasim al-Nuri (Combat)]].
+
 ## At a Glance
 
 | | |

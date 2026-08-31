@@ -47,7 +47,7 @@ The Bloom is not purely negative. At low levels, it grants a strange kind of per
 | Using Bloom Resonance Legendary Action target (2+ Bloom) | DC 15 WIS | +1 Bloom |
 
 > [!tip] Advantage at the Mosque
-> All Bloom Exposure saving throws made inside [[Masjid al-Kawthar]] are made with **Advantage** due to the sacred geometric architecture's natural resistance.
+> All Bloom Exposure saving throws made inside [[Hajia al-Kawthar]] are made with **Advantage** due to the sacred geometric architecture's natural resistance.
 
 ---
 
@@ -55,7 +55,7 @@ The Bloom is not purely negative. At low levels, it grants a strange kind of per
 
 | Method | Effect | Location |
 |---|---|---|
-| Ablution Pool ([[Masjid al-Kawthar]]) | Remove **1 point** of Bloom Exposure | Masjid al-Kawthar |
+| Ablution Pool ([[Hajia al-Kawthar]]) | Remove **1 point** of Bloom Exposure | Hajia al-Kawthar |
 | Parveen's Remote Influence | Remove **1 point** per hour of rest | [[Bayt al-Hikma]] only |
 | Bakhoor House rest (30 min) | Removes 1 **Short-Term Madness** + Advantage on next save | [[The Bakhoor House]] |
 

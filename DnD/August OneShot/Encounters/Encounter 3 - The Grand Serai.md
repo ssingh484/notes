@@ -9,6 +9,18 @@ tags: [encounter, act-3, revelation, boss]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - **Goal**: Reach [[Parveen]], trigger the Stage 3 reveal (the Gardener names each PC's personal seed), choose one of the Three Endings.
+> - **Structure**: revelation/roleplay encounter first — combat with [[Bloom Council]] only if PCs turn hostile toward the Council table.
+> - **Stage 3 Reveal**: Gardener addresses each PC by name + their personal seed (prep privately beforehand — see [[The Gardener]]). WIS DC15 save or +1 Bloom.
+> - **Key checks**: Reflecting Pool (2+ Bloom, DC13 WIS or +1 Bloom) · Living Map floor (Inv DC16/Arc DC14, automatic at 4+ Bloom) reveals Parveen's exact location.
+> - **Combat trigger**: attacking the Council table / forcing through it → [[Bloom Council]] (CR10; destroy 3 of 7 nodes to win). Zainab's node (DC14 WIS within 10ft to hear "sabotage") can end it without full combat.
+> - **Three Endings**:
+>   1. **Seal the Tear** — destroy the scroll (Medicine DC14 to extract it) → [[Parveen]] dies, Gardener retreats, city stays static. Pyrrhic.
+>   2. **Willing Vessel** — [[Kasim al-Nuri|Kasim]] / [[Nadia bint Yusuf|Nadia]] / [[Rajan Pillai|Rajan]] volunteers → city heals slowly over years, vessel stays in the Serai forever.
+>   3. **Give the Scroll to [[The Amber Company]]** — the Company wins; sets up a sequel hook.
+> - **This is the finale** — no further encounters follow.
+
 ## Overview
 
 | | |

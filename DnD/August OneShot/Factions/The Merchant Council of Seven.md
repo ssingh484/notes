@@ -8,6 +8,14 @@ tags: [faction, location, merchant-council]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Issyldir's 140-year governing body; approved the ritual; now fused into [[The Grand Serai]]'s architecture as the [[Bloom Council]] (Encounter 3's final boss).
+> - **Tariq al-Shams** (Head, center seat): called for the ritual in good faith, never verified the components; his vision-expression is *surprise*, not guilt. His node has +2 to all saves.
+> - **Zainab al-Harir** (Seat 1): the only member who voted against the ritual; as a node, DC14 WIS within 10ft lets a PC hear her say "sabotage" — can defuse the fight entirely.
+> - **Dawud al-Baharat** (Seat 2): the Company's relationship manager, trusted too much; unsettlingly serene merged face.
+> - **Seats 3–6**: unnamed, no special traits, names discoverable in the archive.
+> - **Combat**: see [[Bloom Council]] — destroy 3 of 7 nodes to end it; each destroyed node triggers a Bloom Exposure pulse (DC15 CON).
+
 ## Overview
 
 The Merchant Council of Seven was [[Issyldir - The City|Issyldir's]] governing body for 140 years — seven seats, filled by the city's dominant trade families, with authority over permits, trade agreements, taxation, and civic development. They administered the Kafil system. They commissioned the Grand Serai. They approved the ritual.

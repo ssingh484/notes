@@ -8,6 +8,12 @@ tags: [npc, safe-house, ally]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Safe-house keeper at [[The Bakhoor House]]; Bloom Exposure 0 (clean) — bakhoor + prayer keeps him immune within 30ft of his brazier.
+> - Knows the Amber Company agents looked wrong ("scholar-soft hands") but won't volunteer it — ask directly: *"Do you know anything about what was in those ritual components?"*
+> - Trust 5 makes this explicit. Trust 3 or DC16 Persuasion unlocks his locked box (concentrated bakhoor oil, portable Bloom-free zone).
+> - Offers gahwa/dates to every guest — refusing is a real social misstep, not just flavor.
+
 ## At a Glance
 
 | | |

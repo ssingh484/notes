@@ -8,6 +8,14 @@ tags: [location, exploration, revelation]
 
 ---
 
+> [!info]- DM Cliffnotes
+> - Optional exploration stop — 4 memory-echo visions of the city's history, DC15 WIS save each or +1 Bloom Exposure.
+> - **Vision 1**: the founding (140yr ago) — an accidental meeting of two caravans.
+> - **Vision 2**: the Kafil laws created (90yr ago) — the injustice was a deliberate choice.
+> - **Vision 3**: the night of the ritual — Parveen knew it was sabotaged and entered anyway to contain it.
+> - **Vision 4**: the Gardener's arrival — bewildered and relieved, not conquering.
+> - No lock or puzzle here — pure understanding location. Encourage PCs to stop after 2–3 visions if Bloom Exposure is a concern.
+
 ## Overview
 
 | | |
@@ -22,7 +30,7 @@ tags: [location, exploration, revelation]
 
 ## History
 
-The Bustan al-Asrar — "Garden of Whispers" in the old merchant tongue — has been a public garden since the city's founding. What makes it unusual is what sits beneath it: an aquifer connection to the same spring that feeds [[Masjid al-Kawthar|Masjid al-Kawthar]], running at depth through the plaza's foundations. The garden was deliberately built here because this underground water kept everything alive despite the desert heat.
+The Bustan al-Asrar — "Garden of Whispers" in the old merchant tongue — has been a public garden since the city's founding. What makes it unusual is what sits beneath it: an aquifer connection to the same spring that feeds [[Hajia al-Kawthar|Hajia al-Kawthar]], running at depth through the plaza's foundations. The garden was deliberately built here because this underground water kept everything alive despite the desert heat.
 
 The Bloom emerged here first — within hours of the ritual's corruption. The Gardener's roots followed the aquifer path, and this garden was already optimized for growth. By the time anyone thought to contain the Bloom, this space was already inaccessible.
 
