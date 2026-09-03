@@ -1,9 +1,16 @@
 {{ define "main" }}
     {{ .Content }}
 
-    <h2>Recent Posts</h2>
+    <h2>HTB Labs</h2>
     <ul>
-    {{ range (where site.RegularPages "Section" "post") | first 10 }}
+    {{ range (where site.RegularPages "Section" "htb-labs") | first 10 }}
+        {{ .Render "li" }}
+    {{ end }}
+    </ul>
+
+    <h2>Technical Breakdowns</h2>
+    <ul>
+    {{ range (where site.RegularPages "Section" "technical-breakdowns") | first 10 }}
         {{ .Render "li" }}
     {{ end }}
     </ul>
