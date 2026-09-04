@@ -144,7 +144,7 @@ All records require navigating the second floor, which has moderate Bloom growth
 | Document | DC | Content |
 |---|---|---|
 | Ritual documentation (partial) | 12 | The Rite of the Verdant Accord invoked *the Verdant Providence*. The Court-Name has been crossed out in every copy. |
-| Crossed-out name (legible) | 15 | The crossed-out name — the actual ritual content. Arcana DC 13: the substituted marks are a corruption glyph, not a Court-Name. |
+| Crossed-out name (legible) | 15 | The crossed-out name — the actual ritual content. Arcana DC 13: the substituted marks are a corruption glyph, not a Court-Name. See [[The Rite of the Verdant Accord]] for the full component breakdown. |
 | Amber Company manifest | 11 | Components delivered 19 months ago as "gift of reconciliation." Items cross-referenced: Arcana DC 13 to identify the substitutions as unusual. |
 | **The Ledger** | 10 | Every Kafil permit issued in Issyldir's 140-year history. Every PC's name or hometown appears in connection with a trade good. **Stage 2 Reveal.** |
 | Parveen's correspondence file | 14 | Letters from [[Parveen]] objecting to the ritual over a period of six months. The final letter: sealed, dated the night of the ritual, addressed to the Council. Unopened. |

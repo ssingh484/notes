@@ -26,6 +26,8 @@ The [[The Merchant Council of Seven|Merchant Council of Seven]] performed the **
 
 It has been healing the tear by growing over it. The Bloom is scar tissue.
 
+> See [[The Rite of the Verdant Accord]] for the component-by-component breakdown of what was substituted and why it tore open a door instead of closing one.
+
 ---
 
 ## What It Wants

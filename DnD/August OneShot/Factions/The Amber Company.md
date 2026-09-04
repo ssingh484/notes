@@ -34,6 +34,16 @@ Their 90-year presence in [[Issyldir - The City|Issyldir]] was legitimate. They 
 
 ---
 
+## How They Knew About the Rite
+
+The Company didn't guess that Issyldir could attempt a fae bargain — they spent decades confirming it. Ninety years of legitimate archive access let Company factors quietly catalogue everything the al-Hikma scholars had written about the Rite, including the existence of the Glyph Primer that made a safe invocation possible. Harun was trained in what the Company privately calls "Esoteric Contracts": finding cities built on ley-line confluences and cataloguing the rituals their founders left half-finished. He also carried field experience from a smaller, contained fae-bleed the Company had engineered elsewhere decades earlier — the reason leadership believed a *controlled* Bloom was achievable at all. That prior operation is not in any archive the players can reach. Full breakdown: [[The Rite of the Verdant Accord]].
+
+## The Corrupted Components
+
+Harun didn't corrupt the whole shipment — just three of the five required components (the stylus, the ink, and the glyph reference page), each carrying trace cold iron, the one substance that poisons a fae bargain rather than simply blocking it. The genuine components — the vellum and the tribute pearl — were delivered honestly, so nothing in the shipment tested as wrong under casual inspection. See [[The Rite of the Verdant Accord]] for the full component list and why the corruption tore the working open instead of just failing it.
+
+---
+
 ## The Personnel
 
 **[[Saleh]]** — Field agent, players' direct contact. He is not a senior Company operative. He was given a simple brief: hire capable people, get the scroll, don't make scenes. He genuinely doesn't know the full scope of the operation. He believes the Company wants the scroll for "research." He is not actively complicit in what he doesn't know — and he has enough genuine decency that if players explain the full truth to him, he freezes. He doesn't know what to do with that.

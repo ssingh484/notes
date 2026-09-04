@@ -8,6 +8,8 @@ tags: [dm-reference, clues]
 
 This document tracks every clue in the adventure, where it can be found, what it reveals, and when the three-stage PC reveal occurs.
 
+> For the DM's full answer key on the ritual itself — legitimate components, what the Amber Company substituted, and why it tore a hole instead of just failing — see [[The Rite of the Verdant Accord]].
+
 ---
 
 ## Three-Stage Player Reveal
@@ -36,6 +38,7 @@ The players are not random adventurers — they are personally connected to Issy
 | Harun's correspondence | [[The Amber House]] archive | 15 | "City should be ready for reassessment by year-end" |
 | Harun's full report | [[The Amber House]] archive | 15 | The full plan: Bloom the city, sell restoration services |
 | Yasmeen's testimony | [[The Amber House]], back room | None (she volunteers) | She prepared the manifest; she knows what happened |
+| The ritual stylus | [[Locations/The Grand Serai\|The Grand Serai]], Ritual Chamber | 15 Investigation (or automatic at 4+ Bloom); Arcana 16 to identify the iron corrosion | The substituted stylus itself, still resting where Parveen left it |
 
 ### The Kafil System / Immigration Layer
 

@@ -164,6 +164,8 @@ The Ritual Chamber is accessed through a passage behind the council table — pa
 >
 > *'You're late,' she says. 'But you're here. Ask your questions.'"*
 
+**The ritual stylus**: Resting on a low stone shelf beside the chair, half-buried in flowers, is a silver stylus — the one Parveen used the night of the ritual. **DC 15 Investigation** to notice it (automatic at 4+ Bloom Exposure). **DC 16 Arcana** to identify a faint rust-colored corrosion beneath the silver plating: an iron core, the physical proof of the Amber Company's sabotage. Parveen will confirm what it is and how it was used if asked — see [[The Rite of the Verdant Accord]] for the full component-by-component breakdown she can walk players through.
+
 **[[Fatima Rashid|Fatima's]] reaction**: If Fatima is present (and possibly in "Before" memory), arriving in this room breaks her into "Present" memory permanently for the rest of the session. The scene between Fatima and Parveen should be played out without time pressure. It is the emotional core of the adventure.
 
 ---

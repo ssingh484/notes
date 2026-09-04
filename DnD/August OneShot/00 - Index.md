@@ -22,6 +22,7 @@ tags: [index, one-shot, dnd5e]
 | [[Trust Tracker]] | DM relationship tool |
 | [[Clue Trail]] | Clue progression guide for DM |
 | [[The Gardener]] | The entity behind the Bloom |
+| [[The Rite of the Verdant Accord]] | Ritual mechanics, components, and how the Amber Company sabotaged it |
 
 ---
 

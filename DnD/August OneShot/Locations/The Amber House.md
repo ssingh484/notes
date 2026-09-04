@@ -29,7 +29,7 @@ tags: [location, secondary, clue]
 
 The Amber Company has maintained a commercial presence in Issyldir for 90 years — a trade office, records space, and hospitality suite for Company agents passing through. The Amber House is their facility: a mid-sized building in the merchant quarter, tasteful and utilitarian, showing the confidence of people who expect to be doing business here indefinitely.
 
-**Harun al-Noor** was the Company factor who arranged the component substitution. He left Issyldir three months before the ritual — the substituted components had already been delivered. His departure was logged as routine rotation. His correspondence, left in the archive files because he believed no one would read them, documents his deliberate work.
+**Harun al-Noor** was the Company factor who arranged the component substitution. He left Issyldir three months before the ritual — the substituted components had already been delivered. His departure was logged as routine rotation. His correspondence, left in the archive files because he believed no one would read them, documents his deliberate work. See [[The Rite of the Verdant Accord]] for exactly what he substituted and how he knew where to look.
 
 **Yasmeen al-Bakri** was the junior Company agent left as liaison and building manager. She was here when the Bloom occurred. She has been here since. She has been in the back room for three months, breathing shallowly, not moving much, the Company's note still on the door.
 
@@ -49,7 +49,7 @@ The Amber Company is organized. Their archive room is impeccably labeled and cro
 
 | File | DC | Content |
 |---|---|---|
-| Component delivery manifest | 10 | The "gift of reconciliation" shipment. Weight, count, packing method. |
+| Component delivery manifest | 10 | The "gift of reconciliation" shipment. Weight, count, packing method — the stylus, ink, and glyph primer are itemized alongside the two genuine components. See [[The Rite of the Verdant Accord]] for what each item actually was. |
 | Substitution notes (Harun's) | 13 | Harun al-Noor's records of what was replaced and with what. Written in margin shorthand. **DC 14 Arcana** to understand the significance. |
 | Correspondence — Harun to Company HQ | 15 | *"Components delivered. Ritual scheduled in 3 months. Departure booked. The city should be ready for reassessment by year-end."* Written 22 months ago. |
 | Company charter for Issyldir | 8 | The 90-year commercial relationship. Includes the archive reading rights. |

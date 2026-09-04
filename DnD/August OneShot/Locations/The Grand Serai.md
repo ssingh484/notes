@@ -13,6 +13,7 @@ Related: [[The Merchant Council of Seven]], [[Parveen]], [[The Gardener]]
 > - Encounter 3 site — see [[Encounter 3 - The Grand Serai]] for the full run notes.
 > - The Council of Seven sit fused at the table (now the [[Bloom Council]]); [[Parveen]] and the Sealed Scroll are in the hidden Ritual Chamber behind them.
 > - Living tilework floor = real-time Bloom map (Inv DC16/Arc DC14, automatic at 4+ Bloom).
+> - The corrupted ritual stylus rests beside Parveen's chair — physical proof of the sabotage; see [[The Rite of the Verdant Accord]].
 > - The ending PCs choose changes this room's final description — see Aftermath below.
 
 ## Overview

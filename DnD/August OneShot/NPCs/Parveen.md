@@ -61,6 +61,8 @@ She has had 18 months of conversations with [[The Gardener]]. She understands it
 
 > *"It does not understand that growth is not the same as flourishing. It does not understand that something can be nourished to death. I have tried to explain this in the language of roots and flowers. I am not sure it can hear me. But I think — I think sometimes it listens."*
 
+She can also explain, component by component and in order, exactly what was substituted in the ritual and why it tore the tear open instead of closing it — she has had nothing but time to work it out. See [[The Rite of the Verdant Accord]] for the full breakdown she can walk players through.
+
 ---
 
 ## The Sealed Scroll

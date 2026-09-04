@@ -25,6 +25,8 @@ tags: [overview, plot, dnd5e]
 
 Instead of a fae patron's boon, the ritual tore a hole into the Feywild and drew through [[The Gardener]] — an unbound fragment of that plane's endless, hungry spring, older than any court or throne, that exists as pure unfolding growth. It fell through the tear and has been "healing" the wound by growing over it.
 
+> See [[The Rite of the Verdant Accord]] for the full breakdown of the ritual's components and exactly how [[The Amber Company]] engineered the corruption.
+
 ### The Entity
 [[The Gardener]] is not malevolent. Not good. Alien. It grows minds toward something greater, but humans are not built for that growth. It thinks of Bloom as a gift. It speaks in the language of flowers and scent. It knows every name of every person who has ever carried goods from Issyldir — including the players.
 
