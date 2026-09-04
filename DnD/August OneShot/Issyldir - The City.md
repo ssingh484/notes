@@ -47,7 +47,7 @@ The Amber Company's relationship with the city, 90 years old and reliable, was s
 Head Scholar [[Parveen|Parveen]] objected to the ritual for six months. The Council voted 6-1 to proceed.
 
 ### Year 140: The Night of the Ritual
-The Rite of the Bountiful Name was performed by the most senior scholar available — [[Parveen|Parveen]], who had objected to it. She performed it because if someone was going to attempt the corrupted ritual, she wanted to be the one closest to it, able to control the damage.
+The Rite of the Verdant Accord was performed by the most senior scholar available — [[Parveen|Parveen]], who had objected to it. She performed it because if someone was going to attempt the corrupted ritual, she wanted to be the one closest to it, able to control the damage.
 
 The Bloom pulse expanded from the Grand Serai outward across the entire city in approximately four hours. [[The Gardener|The Gardener]] arrived through the opened ritual tear, disoriented, alone, and accidentally welcomed by the abundance of human meaning in the space.
 

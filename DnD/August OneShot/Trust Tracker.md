@@ -79,7 +79,7 @@ Trust does not reset to 0 from a single interaction unless the players do someth
 | Level | What It Unlocks |
 |---|---|
 | 0 | Answers questions directly but shares nothing beyond the question asked |
-| 1 | Explains the Rite of the Bountiful Name and what went wrong |
+| 1 | Explains the Rite of the Verdant Accord and what went wrong |
 | 2 | Confirms the Amber Company's role and explains what the scroll's destruction would do |
 | 3 | Tells players that Fatima is here in the city and warns them to find her before the Serai encounter |
 | 4 | Explains the Willing Vessel mechanic — what it means, what it costs, who could do it |

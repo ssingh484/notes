@@ -28,7 +28,7 @@ The players are not random adventurers — they are personally connected to Issy
 
 | Clue | Location | DC | What It Proves |
 |---|---|---|---|
-| Crossed-out name in ritual docs | [[Bayt al-Hikma]] archives | 12 | The ritual's divine name was replaced with a corruption glyph |
+| Crossed-out name in ritual docs | [[Bayt al-Hikma]] archives | 12 | The ritual's Court-Name was replaced with a corruption glyph |
 | Amber Company component manifest | [[Bayt al-Hikma]] archives | 11 | Components delivered 19 months ago as "gift" |
 | Parveen's objection letters | [[Bayt al-Hikma]] archives | 14 | Parveen knew something was wrong for 6 months |
 | Parveen's drawer note | [[Bayt al-Hikma]], 4th floor, locked | 14 (tools) | *"These components were not ordered by the Council. Source: Amber Company. Do not proceed."* — the explicit smoking gun |

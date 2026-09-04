@@ -67,7 +67,7 @@ The party enters [[Issyldir - The City|Issyldir]] through the main gate — see 
 **Stage 1 Reveal** (see [[Clue Trail#Three-Stage Player Reveal|Clue Trail]]): the fountain inscription and the Bloomed NPCs' unprompted recognition ("We've been keeping your place warm") plant the idea that the PCs were expected.
 
 **Clues locked in before leaving** (full list in [[Encounter 1 - Souq al-Waqif#Clue Delivery|Encounter 1]]):
-- The ritual happened 18 months ago, performed by seven Council members — the "Rite of the Bountiful Name."
+- The ritual happened 18 months ago, performed by seven Council members — the "Rite of the Verdant Accord."
 - [[The Grand Serai]] has been sealed since.
 
 **Combat contingency**: only if PCs are disruptive — see [[Encounter 1 - Souq al-Waqif#If Combat Triggers|If Combat Triggers]]. Escalating [[Bloomed Guard]]s, non-lethal in intent, do not pursue outside the market.

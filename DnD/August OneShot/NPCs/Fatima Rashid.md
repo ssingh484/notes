@@ -79,7 +79,7 @@ Fatima knows:
 
 Fatima does **not** know (in either memory set):
 - That [[Parveen|her mother]] is merged to the ritual seat inside the Serai
-- The specific details of the Rite of the Bountiful Name
+- The specific details of the Rite of the Verdant Accord
 - That the players were deliberately chosen by [[The Gardener]]
 
 ---

@@ -85,7 +85,7 @@ Kasim knows:
 
 Kasim does **not** know:
 - That the ritual was deliberately sabotaged by [[The Amber Company]]
-- The specific details of the Rite of the Bountiful Name
+- The specific details of the Rite of the Verdant Accord
 - That his Bloom is affecting his judgment
 
 ---

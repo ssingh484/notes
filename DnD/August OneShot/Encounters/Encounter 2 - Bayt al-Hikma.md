@@ -143,8 +143,8 @@ All records require navigating the second floor, which has moderate Bloom growth
 
 | Document | DC | Content |
 |---|---|---|
-| Ritual documentation (partial) | 12 | The Rite of the Bountiful Name invoked *Al-Razzaq*. The name has been crossed out in every copy. |
-| Crossed-out name (legible) | 15 | The crossed-out name — the actual ritual content. Arcana DC 13: the substituted marks are a corruption glyph, not a divine name. |
+| Ritual documentation (partial) | 12 | The Rite of the Verdant Accord invoked *the Verdant Providence*. The Court-Name has been crossed out in every copy. |
+| Crossed-out name (legible) | 15 | The crossed-out name — the actual ritual content. Arcana DC 13: the substituted marks are a corruption glyph, not a Court-Name. |
 | Amber Company manifest | 11 | Components delivered 19 months ago as "gift of reconciliation." Items cross-referenced: Arcana DC 13 to identify the substitutions as unusual. |
 | **The Ledger** | 10 | Every Kafil permit issued in Issyldir's 140-year history. Every PC's name or hometown appears in connection with a trade good. **Stage 2 Reveal.** |
 | Parveen's correspondence file | 14 | Letters from [[Parveen]] objecting to the ritual over a period of six months. The final letter: sealed, dated the night of the ritual, addressed to the Council. Unopened. |
@@ -155,8 +155,8 @@ Players can access this with Nadia's permission or by searching while she's occu
 **Nadia's journal** (no check required if she gives it freely, DC 13 Investigation to find without her): 23 entries of dream descriptions. Entry 11 describes being a root moving through the city. Entry 19 describes a woman in the palace in pain. Entry 23, written three days ago: *"The new people are coming. I can feel them from here."*
 
 **Parveen's Study** (accessible, papers everywhere, mostly ritual scholarship):
-- A complete copy of the Rite of the Bountiful Name in its legitimate form
-- Handwritten notes on the 99 divine names, *Al-Razzaq* extensively annotated
+- A complete copy of the Rite of the Verdant Accord in its legitimate form
+- Handwritten notes on the Ninety-Nine Court-Names, *the Verdant Providence* extensively annotated
 - A locked drawer (DC 14 Thieves' Tools or DC 16 STR): inside, the original component manifest with Parveen's handwritten margin notes identifying each ingredient. One margin note: *"These components were not ordered by the Council. Source: Amber Company. Do not proceed."* This document makes the sabotage explicit.
 
 ---
@@ -176,7 +176,7 @@ Before players leave, they should have learned:
 
 - [x] The ritual was sabotaged from outside
 - [x] [[The Amber Company]] provided the corrupted components
-- [x] The ritual was invoking *Al-Razzaq* and was corrupted deliberately
+- [x] The ritual was invoking *the Verdant Providence* and was corrupted deliberately
 - [x] The Sealed Scroll is in the [[The Grand Serai|Grand Serai]], inside **Head Scholar Parveen** — who is **[[Fatima Rashid|Fatima's]] mother**
 - [x] Stage 2 Reveal: The ledger. Every PC's name or hometown.
 

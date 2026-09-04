@@ -33,7 +33,7 @@ tags: [npc, anchor, tragic-figure, scholar]
 
 **Age**: 52 — though what remains of her in the [[The Grand Serai|Serai]] is difficult to age accurately. Her face and hands are largely her own, though the skin has taken on a slight translucence and there is a faint luminescence in her eyes. Her lower back is fused to the ritual chair by roots. Flowers have grown through her shoulders and forearms. She is in significant pain, managed with 18 months of practiced focus.
 
-**Her hands gesture when she speaks** — an old teaching habit, precise and elegant. Players who watch long enough will notice she traces the same arabesque pattern over and over: the geometric calligraphic form of *Al-Razzaq*. She has been doing this for 18 months. She does not know she is doing it.
+**Her hands gesture when she speaks** — an old teaching habit, precise and elegant. Players who watch long enough will notice she traces the same arabesque pattern over and over: the geometric sigil of *the Verdant Providence*, rendered in the calligraphic style of her own tradition. She has been doing this for 18 months. She does not know she is doing it.
 
 ---
 
@@ -47,7 +47,7 @@ She is not defeated. She is not broken. She has made her peace with what is happ
 
 ## Backstory
 
-The most senior scholar in [[Issyldir - The City|Issyldir]]. Appointed by the Council as ritual advisor — specifically to vet any invocations of sacred names or divine entities. She was the only person in the city with both the expertise to recognize what the Council was attempting and the institutional authority to be heard.
+The most senior scholar in [[Issyldir - The City|Issyldir]]. Appointed by the Council as ritual advisor — specifically to vet any invocations of Court-Names or fae powers. She was the only person in the city with both the expertise to recognize what the Council was attempting and the institutional authority to be heard.
 
 **What she did**: She said it was wrong. She wrote a sealed document. She sent [[Fatima Rashid|Fatima]] with the letter. She went herself, on foot, through the city streets. She arrived at the Serai as the doors sealed. She forced her way through a servant's entrance. She saw the ritual in progress and did the only thing she could: **inserted herself as a second anchor point**, trying to blunt the damage.
 

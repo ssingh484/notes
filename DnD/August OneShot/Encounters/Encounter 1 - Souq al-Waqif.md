@@ -16,7 +16,7 @@ tags: [encounter, act-1, social, investigation]
 > - **Stage 1 Reveal**: Bloomed NPCs recognize the PCs unprompted ("We've been keeping your place warm").
 > - **Bloom risks**: food/drink DC12 CON · shisha DC12 CON · fountain water DC11 CON · lingering 10+ min in Zone I–J DC12 WIS (madness only, no Bloom point).
 > - **Combat trigger**: PCs attack a guard / forcibly free a rooted merchant / destroy stalls → escalating [[Bloomed Guard]]s (max 8), never pursue outside the market.
-> - **Must leave knowing**: ritual 18mo ago · 7 Council members · "Rite of the Bountiful Name" · [[The Grand Serai]] closed since.
+> - **Must leave knowing**: ritual 18mo ago · 7 Council members · "Rite of the Verdant Accord" · [[The Grand Serai]] closed since.
 > - **Exit**: toward [[Bayt al-Hikma]], optionally via [[Silk Road Tribunal]] / [[The Amber House]].
 
 ## Overview
@@ -164,7 +164,7 @@ Before players leave the Souq, they should have learned (from Fatima, Rajan, or 
 
 - [x] The ritual happened 18 months ago
 - [x] Seven council members were involved
-- [x] It was called "the Rite of the Bountiful Name"
+- [x] It was called "the Rite of the Verdant Accord"
 - [x] The [[The Grand Serai|Grand Serai]] has been closed since then
 - [x] Fatima: *"The Council went in to fix it. They didn't come out. But they're still there. You can hear them thinking."*
 - [x] Stage 1 Reveal: The Bloomed NPCs appear to recognize the players. One guard says, unprompted: *"We've been keeping your place warm."* A rooted merchant holds out a parcel as if completing an order. The players did not place an order.

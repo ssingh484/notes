@@ -10,7 +10,9 @@ tags: [entity, antagonist, gardener]
 
 ## What It Is
 
-The Gardener is not a god, a demon, or a spirit. It is a **primordial fragment** — a shard of something vast that exists as pure unfolding growth. It predates the current world. It does not think in terms of malice or mercy. It thinks in terms of **cultivation**.
+The Gardener is not a god, a demon, or a devil. It is a **fragment of the Feywild** — a splinter of that plane's endless, primal spring, torn loose from the deep growth bordering the Seelie Court's domain and given fragmentary awareness. It predates any throne raised in the Feywild's courts. It does not think in terms of malice or mercy. It thinks in terms of **cultivation**.
+
+It is not Titania, nor Oberon, nor any Archfey with a court and a name of its own. It is closer to the raw stuff their power is grown from — feral, formless, and free of any throne's restraint. That is what makes it so alien: it has none of the manners, bargains, or rules that even the cruelest Archfey observe.
 
 It sees consciousness as seeds. It sees the city of [[Issyldir - The City|Issyldir]] as its garden. It has been tending the garden for 18 months.
 
@@ -20,7 +22,7 @@ It is not the enemy. It is **incompatible** with human existence as humans know 
 
 ## How It Arrived
 
-The [[The Merchant Council of Seven|Merchant Council of Seven]] performed the **Rite of the Bountiful Name** — invoking *Al-Razzaq* (الرزاق, "The Provider of Sustenance"). The ritual components were corrupted by [[The Amber Company]]. Instead of a divine patron, the ritual tore a hole between realities. The Gardener was not summoned — it **fell through**.
+The [[The Merchant Council of Seven|Merchant Council of Seven]] performed the **Rite of the Verdant Accord** — invoking *the Verdant Providence*, one of the Ninety-Nine Court-Names of the Seelie Throne. The ritual components were corrupted by [[The Amber Company]]. Instead of a fae patron's boon, the ritual tore a hole between the Material Plane and the Feywild. The Gardener was not summoned — it **fell through**.
 
 It has been healing the tear by growing over it. The Bloom is scar tissue.
 

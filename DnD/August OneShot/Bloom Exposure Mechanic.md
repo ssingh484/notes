@@ -90,7 +90,7 @@ The Bloom is not purely a threat. The Gardener genuinely believes it is improvin
 | 5 | For 1 hour, the character becomes convinced one ally has flowers growing under their skin. |
 | 6 | For 1 minute, the character's vision is tinted rose-gold and everything smells of jasmine. |
 | 7 | For 1 hour, the character feels the city breathing around them and must succeed DC 12 WIS to take aggressive actions. |
-| 8 | For 1 hour, the character is compelled to touch every carved or written instance of *Al-Razzaq* they see. |
+| 8 | For 1 hour, the character is compelled to touch every carved or written instance of *the Verdant Providence's* sigil they see. |
 | 9 | For 1 minute, the character forgets the current year and speaks as if it is 18 months ago. |
 | 10 | For 1 hour, the character experiences profound serenity. They have Disadvantage on Initiative rolls. |
 

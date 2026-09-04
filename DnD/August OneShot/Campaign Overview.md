@@ -21,9 +21,9 @@ tags: [overview, plot, dnd5e]
 ## The Setup
 
 ### The Apocalypse
-18 months ago, [[Issyldir - The City|Issyldir's]] Merchant Council of Seven performed the **Rite of the Bountiful Name** — invoking *Al-Razzaq* (الرزاق, "The Provider of Sustenance"), one of the 99 sacred divine names, to secure prosperity in a trade war. The ritual components were gifted by [[The Amber Company]] as a "gift of reconciliation." They were deliberately corrupted.
+18 months ago, [[Issyldir - The City|Issyldir's]] Merchant Council of Seven performed the **Rite of the Verdant Accord** — invoking *the Verdant Providence*, one of the Ninety-Nine Court-Names of the Seelie Throne, to secure prosperity in a trade war. The ritual components were gifted by [[The Amber Company]] as a "gift of reconciliation." They were deliberately corrupted.
 
-Instead of a divine patron, the ritual tore a hole between realities and attracted [[The Gardener]] — an ancient primordial fragment that exists as pure unfolding growth. It fell through the tear and has been "healing" the wound by growing over it.
+Instead of a fae patron's boon, the ritual tore a hole into the Feywild and drew through [[The Gardener]] — an unbound fragment of that plane's endless, hungry spring, older than any court or throne, that exists as pure unfolding growth. It fell through the tear and has been "healing" the wound by growing over it.
 
 ### The Entity
 [[The Gardener]] is not malevolent. Not good. Alien. It grows minds toward something greater, but humans are not built for that growth. It thinks of Bloom as a gift. It speaks in the language of flowers and scent. It knows every name of every person who has ever carried goods from Issyldir — including the players.
@@ -50,7 +50,7 @@ Before the Bloom, Issyldir's native-born citizens (~15% of population) bound for
 
 Players enter the city through the Souq al-Waqif. The market is still "operating." The merchants are still standing. Their feet have rooted. Key NPCs introduced: [[Fatima Rashid]] (fractured guide), [[Rajan Pillai]] (migrant laborer, the most knowledgeable person in the city).
 
-**Clue Revealed**: The ritual happened 18 months ago. Seven council members. The Rite of the Bountiful Name. The Grand Serai has been closed since.
+**Clue Revealed**: The ritual happened 18 months ago. Seven council members. The Rite of the Verdant Accord. The Grand Serai has been closed since.
 
 ---
 

@@ -52,7 +52,7 @@ The second-floor archives contain 140 years of civic documentation. Much of it i
 |---|---|---|---|
 | Kafil permits, first generation | West wall, labeled | 10 | Establishes the system's age and deliberateness |
 | The Ledger | North wall, locked cabinet (DC 12) | 10 | Every permit in the city's history; players' names or hometowns |
-| Ritual documentation | Ritual shelf, east wall | 12 | Rite of Al-Razzaq; the name crossed out in every copy |
+| Ritual documentation | Ritual shelf, east wall | 12 | Rite of the Verdant Accord; the Court-Name crossed out in every copy |
 | Amber Company manifests | Trade manifest section | 11 | Components delivered 19 months ago as "reconciliation gift" |
 | Parveen's correspondence | Administration filing | 14 | Six months of objection letters |
 

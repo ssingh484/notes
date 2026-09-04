@@ -46,7 +46,7 @@ He cooperates with [[The Gardener]] because the arrangement suits him — perpet
 
 ## History
 
-**Personal falcon of [[The Merchant Council of Seven|Tariq al-Shams]]**, Council Head. Kept as a status symbol — trained by Issyldir's finest falconer, fed the best meat. Tariq brought Nasr hooded to the Rite of the Bountiful Name as a symbol of his mastery. In the first moment of the Bloom, Tariq's hand opened involuntarily. Nasr flew. He was in the air when the pulse hit — caught partially, enough to be touched, not enough to be lost.
+**Personal falcon of [[The Merchant Council of Seven|Tariq al-Shams]]**, Council Head. Kept as a status symbol — trained by Issyldir's finest falconer, fed the best meat. Tariq brought Nasr hooded to the Rite of the Verdant Accord as a symbol of his mastery. In the first moment of the Bloom, Tariq's hand opened involuntarily. Nasr flew. He was in the air when the pulse hit — caught partially, enough to be touched, not enough to be lost.
 
 ---
 
