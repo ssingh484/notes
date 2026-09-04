@@ -42,6 +42,8 @@ The players have navigated to the heart of [[Issyldir - The City|Issyldir]]. The
 
 ## Map — The Grand Serai
 
+![[DnD/August OneShot/encounter-3.jfif]]
+
 ```
 [OUTER COURTYARD]
 ╔════════════════════════════╗
@@ -102,6 +104,10 @@ The players have navigated to the heart of [[Issyldir - The City|Issyldir]]. The
 **Scale**: The audience hall is approximately 80 ft × 50 ft. Each column is a 5 ft square providing half cover. The council table runs across the back third of the hall (~25 ft wide). The reflecting pool is 20 ft × 12 ft, centered in the room.
 
 **Difficult Terrain**: The reflecting pool (submerged roots beneath still water, disorienting visuals). The area within 5 ft of the council table (dense root growth from the floor). The Ritual Chamber passage (flowers thigh-high throughout).
+
+## Combat Map
+
+![[DnD/August OneShot/encounter-3-combat.jfif]]
 
 ---
 

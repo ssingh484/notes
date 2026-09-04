@@ -40,6 +40,8 @@ Players have just entered [[Issyldir - The City|Issyldir]] through the main gate
 
 ## Map — Souq al-Waqif
 
+![[DnD/August OneShot/encounter-1.jfif]]
+
 ```
         [NORTH — MAIN CITY GATE]
                |
@@ -75,6 +77,10 @@ Players have just entered [[Issyldir - The City|Issyldir]] through the main gate
 ```
 
 **Scale**: The entire market is approximately 200 ft × 150 ft. The main alley (A→E→I→J) is the primary axis. All lettered areas are accessible from the main alley via side passages 10–15 ft wide.
+
+## Combat Map
+
+![[DnD/August OneShot/encounter-1-general.jfif]]
 
 ---
 

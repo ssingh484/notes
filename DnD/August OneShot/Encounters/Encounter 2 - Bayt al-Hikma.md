@@ -40,6 +40,8 @@ The Bayt al-Hikma is a 90-year-old library-palace, half-consumed by Bloom roots 
 
 ## Map — Bayt al-Hikma
 
+![[DnD/August OneShot/encounter-2.jfif]]
+
 ```
 ╔══════════════════════════════╗
 ║   GROUND FLOOR (Bloom-choked) ║
@@ -97,6 +99,14 @@ The Bayt al-Hikma is a 90-year-old library-palace, half-consumed by Bloom roots 
 ```
 
 **Scale**: Each floor is approximately 60 ft × 40 ft. Stairwell is in the southeast corner. The third floor main hall is the primary encounter space.
+
+## Floor 3 Map
+
+![[DnD/August OneShot/encounter-2-floor3.jfif]]
+
+## Floor 4 Map
+
+![[DnD/August OneShot/encounter-2-floor4.jfif]]
 
 ---
 
